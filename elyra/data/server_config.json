@@ -1,0 +1,10 @@
+{
+  "ai_enabled": true,
+  "automod_enabled": true,
+  "welcome_enabled": true,
+  "logging_enabled": true,
+  "automod_sensitivity": "medium",
+  "welcome_channel_id": 1475443518985080958,
+  "log_channel_id": 1481621224554631250,
+  "ai_channel_id": 1512326618637664266
+}

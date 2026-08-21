@@ -1,0 +1,14 @@
+{
+  "presence": "idle",
+  "status": {
+    "type": "watching",
+    "text": "over the archives"
+  },
+  "bio": "Guild Scribe of the Adventurers' Guild. Maintaining accurate records for future generations.",
+  "settings": {
+    "ai_enabled": true,
+    "context_window": 20,
+    "max_tokens": 600,
+    "temperature": 0.7
+  }
+}

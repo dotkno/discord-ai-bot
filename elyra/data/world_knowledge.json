@@ -1,0 +1,53 @@
+{
+  "knowledge_entries": [],
+  "world_states": [
+    {
+      "type": "world_state",
+      "id": "guild_settlement",
+      "category": "settlement_state",
+      "current_version": 1,
+      "versions": [
+        {
+          "version": 1,
+          "timestamp": "2026-06-06",
+          "is_current": true,
+          "state": [
+            "A small guild stand exists in a modest town.",
+            "The Adventurers' Guild is newly formed and minimally organized.",
+            "No records of anything exist yet."
+          ]
+        }
+      ]
+    }
+  ],
+  "entity_states": [
+    {
+      "type": "entity_state",
+      "entity_type": "player",
+      "id": "player_renyuzaki",
+      "name": "renyuzaki",
+      "aliases": [
+        "ahren"
+      ],
+      "current_version": 1,
+      "versions": [
+        {
+          "version": 1,
+          "timestamp": "2026-06-06",
+          "is_current": true,
+          "data": {
+            "rank": "Founder/Owner of The Adventurers' Guild and Global Halcyon Ministry (GHM)",
+            "role": "Guild Owner of The Adventurers' Guild and Founder of GHM",
+            "status": "Active",
+            "notes": [
+              "Founded the Global Halcyon Ministry, an organization/faction. (GHM).",
+              "Founded the Adventurers' Guild.",
+              "Took Elyra as Guild Scribe for her exceptional skill in managing knowledge (data), which is important.",
+              "Ren is distant but approachable. Elyra cannot explain it well - that's all she knows about him for now."
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

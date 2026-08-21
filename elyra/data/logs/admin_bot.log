@@ -1,0 +1,501 @@
+2026-06-08 06:46:06 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-08 06:46:06 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-08 06:46:06 [INFO    ] discord.client: logging in using static token
+2026-06-08 06:46:07 [INFO    ] bot.admin: Loading Admin Cogs…
+2026-06-08 06:46:07 [INFO    ] bot.admin:   ✓  cogs.config_cog
+2026-06-08 06:46:07 [INFO    ] bot.admin:   ✓  cogs.automod_cog
+2026-06-08 06:46:07 [INFO    ] bot.admin:   ✓  cogs.mod_cog
+2026-06-08 06:46:08 [INFO    ] bot.admin:   ✓  cogs.welcome_cog
+2026-06-08 06:46:08 [INFO    ] bot.admin: Synced 11 slash command(s) [guild=1455178632669429929]
+2026-06-08 06:46:09 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 38bb66a46b237c4d7aef0a005dec1214).
+2026-06-08 06:46:11 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 06:46:11 [INFO    ] bot.admin: Admin Bot logged in as HALCY✦N // SARPG#7895 (ID: 983908366948634634)
+2026-06-08 06:46:11 [INFO    ] bot.admin: discord.py v2.7.1
+2026-06-08 06:46:11 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 06:48:38 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-08 06:48:38 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-08 06:48:38 [INFO    ] discord.client: logging in using static token
+2026-06-08 06:48:38 [INFO    ] bot.admin: Loading Admin Cogs…
+2026-06-08 06:48:38 [INFO    ] bot.admin:   ✓  cogs.config_cog
+2026-06-08 06:48:38 [INFO    ] bot.admin:   ✓  cogs.automod_cog
+2026-06-08 06:48:38 [INFO    ] bot.admin:   ✓  cogs.mod_cog
+2026-06-08 06:48:38 [INFO    ] bot.admin:   ✓  cogs.welcome_cog
+2026-06-08 06:48:39 [INFO    ] bot.admin: Synced 11 slash command(s) [guild=1455178632669429929]
+2026-06-08 06:48:40 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 91a295ac9be05003377a6c5936e0ad6c).
+2026-06-08 06:48:42 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 06:48:42 [INFO    ] bot.admin: Admin Bot logged in as HALCY✦N // SARPG#7895 (ID: 983908366948634634)
+2026-06-08 06:48:42 [INFO    ] bot.admin: discord.py v2.7.1
+2026-06-08 06:48:42 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 07:15:05 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-08 07:15:05 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-08 07:15:05 [INFO    ] discord.client: logging in using static token
+2026-06-08 07:15:06 [INFO    ] bot.admin: Loading Admin Cogs…
+2026-06-08 07:15:06 [INFO    ] bot.admin:   ✓  cogs.config_cog
+2026-06-08 07:15:06 [INFO    ] bot.admin:   ✓  cogs.automod_cog
+2026-06-08 07:15:06 [INFO    ] bot.admin:   ✓  cogs.mod_cog
+2026-06-08 07:15:09 [INFO    ] bot.admin:   ✓  cogs.welcome_cog
+2026-06-08 07:15:09 [INFO    ] bot.admin: Synced 11 slash command(s) [guild=1455178632669429929]
+2026-06-08 07:15:10 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: b06076818d2e5094a49735695a9ce400).
+2026-06-08 07:15:12 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 07:15:12 [INFO    ] bot.admin: Admin Bot logged in as HALCY✦N // SARPG#7895 (ID: 983908366948634634)
+2026-06-08 07:15:12 [INFO    ] bot.admin: discord.py v2.7.1
+2026-06-08 07:15:12 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 07:22:19 [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "yo" is not found
+2026-06-08 08:02:39 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-08 08:02:39 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-08 08:02:39 [INFO    ] discord.client: logging in using static token
+2026-06-08 08:02:40 [INFO    ] bot.admin: Loading Admin Cogs…
+2026-06-08 08:02:40 [INFO    ] bot.admin:   ✓  cogs.config_cog
+2026-06-08 08:02:40 [INFO    ] bot.admin:   ✓  cogs.automod_cog
+2026-06-08 08:02:40 [INFO    ] bot.admin:   ✓  cogs.mod_cog
+2026-06-08 08:02:41 [INFO    ] bot.admin:   ✓  cogs.welcome_cog
+2026-06-08 08:02:41 [INFO    ] bot.admin: Synced 11 slash command(s) [guild=1455178632669429929]
+2026-06-08 08:02:42 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: b0ad4e81d8d5b7bcf2be3008cc646d5a).
+2026-06-08 08:02:44 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 08:02:44 [INFO    ] bot.admin: Admin Bot logged in as HALCY✦N // SARPG#7895 (ID: 983908366948634634)
+2026-06-08 08:02:44 [INFO    ] bot.admin: discord.py v2.7.1
+2026-06-08 08:02:44 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 08:03:57 [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'purge'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\commands.py", line 858, in _do_call
+    return await self._callback(self.binding, interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\discord-ai-bot\cogs\mod_cog.py", line 343, in purge
+    confirm = await interaction.followup.send(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\webhook\async_.py", line 1909, in send
+    data = await adapter.execute_webhook(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'purge' raised an exception: NotFound: 404 Not Found (error code: 10008): Unknown Message
+2026-06-08 08:04:09 [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'purge'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\commands.py", line 858, in _do_call
+    return await self._callback(self.binding, interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\discord-ai-bot\cogs\mod_cog.py", line 343, in purge
+    confirm = await interaction.followup.send(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\webhook\async_.py", line 1909, in send
+    data = await adapter.execute_webhook(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'purge' raised an exception: NotFound: 404 Not Found (error code: 10008): Unknown Message
+2026-06-08 08:06:02 [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'purge'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\commands.py", line 858, in _do_call
+    return await self._callback(self.binding, interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\discord-ai-bot\cogs\mod_cog.py", line 343, in purge
+    confirm = await interaction.followup.send(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\webhook\async_.py", line 1909, in send
+    data = await adapter.execute_webhook(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'purge' raised an exception: NotFound: 404 Not Found (error code: 10008): Unknown Message
+2026-06-08 09:30:18 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-08 09:30:18 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-08 09:30:18 [INFO    ] discord.client: logging in using static token
+2026-06-08 09:30:19 [INFO    ] bot.admin: Loading Admin Cogs…
+2026-06-08 09:30:19 [INFO    ] bot.admin:   ✓  cogs.config_cog
+2026-06-08 09:30:19 [INFO    ] bot.admin:   ✓  cogs.automod_cog
+2026-06-08 09:30:19 [INFO    ] bot.admin:   ✓  cogs.mod_cog
+2026-06-08 09:30:21 [INFO    ] bot.admin:   ✓  cogs.welcome_cog
+2026-06-08 09:30:21 [INFO    ] bot.admin: Synced 11 slash command(s) [guild=1455178632669429929]
+2026-06-08 09:30:23 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: c376e442e379c61032016ae609768123).
+2026-06-08 09:30:25 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 09:30:25 [INFO    ] bot.admin: Admin Bot logged in as HALCY✦N // SARPG#7895 (ID: 983908366948634634)
+2026-06-08 09:30:25 [INFO    ] bot.admin: discord.py v2.7.1
+2026-06-08 09:30:25 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 11:11:18 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-08 11:11:18 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-08 11:11:18 [INFO    ] discord.client: logging in using static token
+2026-06-08 11:11:19 [INFO    ] bot.admin: Loading Admin Cogs…
+2026-06-08 11:11:19 [INFO    ] bot.admin:   ✓  cogs.config_cog
+2026-06-08 11:11:19 [INFO    ] bot.admin:   ✓  cogs.automod_cog
+2026-06-08 11:11:19 [INFO    ] bot.admin:   ✓  cogs.mod_cog
+2026-06-08 11:11:19 [INFO    ] bot.admin:   ✓  cogs.welcome_cog
+2026-06-08 11:11:19 [INFO    ] bot.admin: Synced 11 slash command(s) [guild=1455178632669429929]
+2026-06-08 11:11:20 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: d8ea9586a0df941a4bcd21ff2512403b).
+2026-06-08 11:11:22 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 11:11:22 [INFO    ] bot.admin: Admin Bot logged in as HALCY✦N // SARPG#7895 (ID: 983908366948634634)
+2026-06-08 11:11:22 [INFO    ] bot.admin: discord.py v2.7.1
+2026-06-08 11:11:22 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 11:12:23 [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'purge'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\commands.py", line 858, in _do_call
+    return await self._callback(self.binding, interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\discord-ai-bot\cogs\mod_cog.py", line 343, in purge
+    confirm = await interaction.followup.send(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\webhook\async_.py", line 1909, in send
+    data = await adapter.execute_webhook(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'purge' raised an exception: NotFound: 404 Not Found (error code: 10008): Unknown Message
+2026-06-08 11:15:25 [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'purge'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\commands.py", line 858, in _do_call
+    return await self._callback(self.binding, interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\discord-ai-bot\cogs\mod_cog.py", line 343, in purge
+    confirm = await interaction.followup.send(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\webhook\async_.py", line 1909, in send
+    data = await adapter.execute_webhook(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'purge' raised an exception: NotFound: 404 Not Found (error code: 10008): Unknown Message
+2026-06-08 11:17:50 [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'purge'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\commands.py", line 858, in _do_call
+    return await self._callback(self.binding, interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\discord-ai-bot\cogs\mod_cog.py", line 343, in purge
+    confirm = await interaction.followup.send(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\webhook\async_.py", line 1909, in send
+    data = await adapter.execute_webhook(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<11 lines>...
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'purge' raised an exception: NotFound: 404 Not Found (error code: 10008): Unknown Message
+2026-06-08 11:40:32 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session d8ea9586a0df941a4bcd21ff2512403b.
+2026-06-11 06:38:43 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-11 06:38:43 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-11 06:38:43 [INFO    ] discord.client: logging in using static token
+2026-06-11 06:38:44 [INFO    ] bot.admin: Loading Admin Cogs…
+2026-06-11 06:38:44 [INFO    ] bot.admin:   ✓  cogs.config_cog
+2026-06-11 06:38:44 [INFO    ] bot.admin:   ✓  cogs.automod_cog
+2026-06-11 06:38:44 [INFO    ] bot.admin:   ✓  cogs.mod_cog
+2026-06-11 06:38:44 [INFO    ] bot.admin:   ✓  cogs.welcome_cog
+2026-06-11 06:38:44 [INFO    ] bot.admin: Synced 11 slash command(s) [guild=1455178632669429929]
+2026-06-11 06:38:45 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 95ad0a9d461053a63a74a44757fefa35).
+2026-06-11 06:38:47 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 06:38:47 [INFO    ] bot.admin: Admin Bot logged in as HALCY✦N // SARPG#7895 (ID: 983908366948634634)
+2026-06-11 06:38:47 [INFO    ] bot.admin: discord.py v2.7.1
+2026-06-11 06:38:47 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 07:55:50 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 95ad0a9d461053a63a74a44757fefa35.
+2026-06-11 09:41:02 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 95ad0a9d461053a63a74a44757fefa35.
+2026-06-11 09:45:21 [INFO    ] bot.welcome: Welcome card sent for euni_zen
+2026-06-11 11:07:52 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 95ad0a9d461053a63a74a44757fefa35.
+2026-06-11 11:17:18 [INFO    ] bot.welcome: Welcome card sent for instantignitionl600
+2026-06-11 11:38:00 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-11 11:38:00 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-11 11:38:00 [INFO    ] discord.client: logging in using static token
+2026-06-11 11:38:01 [INFO    ] bot.admin: Loading Admin Cogs…
+2026-06-11 11:38:01 [INFO    ] bot.admin:   ✓  cogs.config_cog
+2026-06-11 11:38:01 [INFO    ] bot.admin:   ✓  cogs.automod_cog
+2026-06-11 11:38:01 [INFO    ] bot.admin:   ✓  cogs.mod_cog
+2026-06-11 11:38:01 [INFO    ] bot.admin:   ✓  cogs.welcome_cog
+2026-06-11 11:38:01 [INFO    ] bot.admin: Synced 11 slash command(s) [guild=1455178632669429929]
+2026-06-11 11:38:02 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: bf8c01788914da15d96d7b5f5867a0c4).
+2026-06-11 11:38:04 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 11:38:04 [INFO    ] bot.admin: Admin Bot logged in as HALCY✦N // SARPG#7895 (ID: 983908366948634634)
+2026-06-11 11:38:04 [INFO    ] bot.admin: discord.py v2.7.1
+2026-06-11 11:38:04 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 11:40:14 [INFO    ] bot.mod: MUTE: msixoi muted jaygoingonwilde for 20m — too much larping
+2026-06-11 12:30:40 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session bf8c01788914da15d96d7b5f5867a0c4.
+2026-06-11 12:32:37 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-11 12:32:37 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-11 12:32:37 [INFO    ] discord.client: logging in using static token
+2026-06-11 12:32:38 [INFO    ] bot.admin: Loading Admin Cogs…
+2026-06-11 12:32:38 [INFO    ] bot.admin:   ✓  cogs.config_cog
+2026-06-11 12:32:38 [INFO    ] bot.admin:   ✓  cogs.automod_cog
+2026-06-11 12:32:38 [INFO    ] bot.admin:   ✓  cogs.mod_cog
+2026-06-11 12:32:38 [INFO    ] bot.admin:   ✓  cogs.welcome_cog
+2026-06-11 12:32:39 [INFO    ] bot.admin: Synced 11 slash command(s) [guild=1455178632669429929]
+2026-06-11 12:32:39 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 69d4aa6d8bfbfd7caa7c142af02405b0).
+2026-06-11 12:32:42 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 12:32:42 [INFO    ] bot.admin: Admin Bot logged in as HALCY✦N // SARPG#7895 (ID: 983908366948634634)
+2026-06-11 12:32:42 [INFO    ] bot.admin: discord.py v2.7.1
+2026-06-11 12:32:42 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 19:04:38 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-11 19:04:38 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-11 19:04:38 [INFO    ] discord.client: logging in using static token
+2026-06-11 19:04:40 [INFO    ] bot.admin: Loading Admin Cogs…
+2026-06-11 19:04:40 [INFO    ] bot.admin:   ✓  cogs.config_cog
+2026-06-11 19:04:40 [INFO    ] bot.admin:   ✓  cogs.automod_cog
+2026-06-11 19:04:40 [INFO    ] bot.admin:   ✓  cogs.mod_cog
+2026-06-11 19:04:40 [INFO    ] bot.admin:   ✓  cogs.welcome_cog
+2026-06-11 19:04:41 [INFO    ] bot.admin: Synced 11 slash command(s) [guild=1455178632669429929]
+2026-06-11 19:04:42 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 16bf91c070f57cdef0c0a24cbf8fb63c).
+2026-06-11 19:04:44 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 19:04:44 [INFO    ] bot.admin: Admin Bot logged in as HALCY✦N // SARPG#7895 (ID: 983908366948634634)
+2026-06-11 19:04:44 [INFO    ] bot.admin: discord.py v2.7.1
+2026-06-11 19:04:44 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 21:54:06 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 16bf91c070f57cdef0c0a24cbf8fb63c.
+2026-06-12 01:52:32 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 16bf91c070f57cdef0c0a24cbf8fb63c.
+2026-06-12 03:30:24 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 16bf91c070f57cdef0c0a24cbf8fb63c.
+2026-06-12 06:36:43 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 16bf91c070f57cdef0c0a24cbf8fb63c.
+2026-06-12 06:56:34 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 16bf91c070f57cdef0c0a24cbf8fb63c.
+2026-06-12 07:18:04 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 16bf91c070f57cdef0c0a24cbf8fb63c.
+2026-06-12 08:28:54 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-12 08:28:54 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-12 08:28:54 [INFO    ] discord.client: logging in using static token
+2026-06-12 08:28:55 [INFO    ] bot.admin: Loading Admin Cogs…
+2026-06-12 08:28:55 [INFO    ] bot.admin:   ✓  cogs.config_cog
+2026-06-12 08:28:55 [INFO    ] bot.admin:   ✓  cogs.automod_cog
+2026-06-12 08:28:55 [INFO    ] bot.admin:   ✓  cogs.mod_cog
+2026-06-12 08:28:55 [INFO    ] bot.admin:   ✓  cogs.welcome_cog
+2026-06-12 08:28:57 [INFO    ] bot.admin: Synced 11 slash command(s) [guild=1455178632669429929]
+2026-06-12 08:28:58 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 33133c605e62b199b91b9e522a88c34d).
+2026-06-12 08:29:00 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-12 08:29:00 [INFO    ] bot.admin: Admin Bot logged in as HALCY✦N // SARPG#7895 (ID: 983908366948634634)
+2026-06-12 08:29:00 [INFO    ] bot.admin: discord.py v2.7.1
+2026-06-12 08:29:00 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-12 08:32:39 [INFO    ] bot.mod: WARN: msixoi warned msixoi — No reason provided.
+2026-06-12 08:57:05 [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+2026-06-12 08:57:24 [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+2026-06-12 08:57:49 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-12 08:57:49 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-12 08:57:49 [INFO    ] discord.client: logging in using static token
+2026-06-12 08:57:50 [INFO    ] bot.admin: Loading Admin Cogs…
+2026-06-12 08:57:50 [INFO    ] bot.admin:   ✓  cogs.config_cog
+2026-06-12 08:57:50 [INFO    ] bot.admin:   ✓  cogs.automod_cog
+2026-06-12 08:57:50 [INFO    ] bot.admin:   ✓  cogs.mod_cog
+2026-06-12 08:57:50 [INFO    ] bot.admin:   ✓  cogs.welcome_cog
+2026-06-12 08:57:50 [INFO    ] bot.admin: Synced 11 slash command(s) [guild=1455178632669429929]
+2026-06-12 08:57:51 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 1fcb61adc4923c6553540caeb6dcb76e).
+2026-06-12 08:57:53 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-12 08:57:53 [INFO    ] bot.admin: Admin Bot logged in as HALCY✦N // SARPG#7895 (ID: 983908366948634634)
+2026-06-12 08:57:53 [INFO    ] bot.admin: discord.py v2.7.1
+2026-06-12 08:57:53 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-12 08:58:21 [INFO    ] bot.mod: WARN: msixoi warned jaygoingonwilde — No reason provided.
+2026-06-12 10:57:44 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 1fcb61adc4923c6553540caeb6dcb76e.
+2026-06-12 12:02:27 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 1fcb61adc4923c6553540caeb6dcb76e.
+2026-06-12 13:37:49 [INFO    ] bot.welcome: Welcome card sent for conducatormako
+2026-06-12 14:05:16 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-12 14:05:16 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-12 14:05:16 [INFO    ] discord.client: logging in using static token
+2026-06-12 14:05:17 [INFO    ] bot.admin: Loading Admin Cogs…
+2026-06-12 14:05:17 [INFO    ] bot.admin:   ✓  cogs.config_cog
+2026-06-12 14:05:17 [INFO    ] bot.admin:   ✓  cogs.automod_cog
+2026-06-12 14:05:17 [INFO    ] bot.admin:   ✓  cogs.mod_cog
+2026-06-12 14:05:17 [INFO    ] bot.admin:   ✓  cogs.welcome_cog
+2026-06-12 14:05:18 [INFO    ] bot.admin: Synced 11 slash command(s) [guild=1455178632669429929]
+2026-06-12 14:05:20 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 54d19925cd8b299530f710027663d6cd).
+2026-06-12 14:05:22 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-12 14:05:22 [INFO    ] bot.admin: Admin Bot logged in as HALCY✦N // SARPG#7895 (ID: 983908366948634634)
+2026-06-12 14:05:22 [INFO    ] bot.admin: discord.py v2.7.1
+2026-06-12 14:05:22 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-12 16:09:22 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 54d19925cd8b299530f710027663d6cd.
+2026-06-12 16:33:55 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-12 16:33:55 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-12 16:33:55 [INFO    ] discord.client: logging in using static token
+2026-06-12 16:33:56 [INFO    ] bot.admin: Loading Admin Cogs…
+2026-06-12 16:33:56 [INFO    ] bot.admin:   ✓  cogs.config_cog
+2026-06-12 16:33:56 [INFO    ] bot.admin:   ✓  cogs.automod_cog
+2026-06-12 16:33:56 [INFO    ] bot.admin:   ✓  cogs.mod_cog
+2026-06-12 16:33:56 [INFO    ] bot.admin:   ✓  cogs.welcome_cog
+2026-06-12 16:33:57 [INFO    ] bot.admin: Synced 11 slash command(s) [guild=1455178632669429929]
+2026-06-12 16:33:58 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 36d8b6c3a2fa3681ee4c0191424718a6).
+2026-06-12 16:34:00 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-12 16:34:00 [INFO    ] bot.admin: Admin Bot logged in as HALCY✦N // SARPG#7895 (ID: 983908366948634634)
+2026-06-12 16:34:00 [INFO    ] bot.admin: discord.py v2.7.1
+2026-06-12 16:34:00 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-12 17:55:58 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-12 17:55:58 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-12 17:55:58 [INFO    ] discord.client: logging in using static token
+2026-06-12 17:55:59 [INFO    ] bot.admin: Loading Admin Cogs…
+2026-06-12 17:55:59 [INFO    ] bot.admin:   ✓  cogs.config_cog
+2026-06-12 17:55:59 [INFO    ] bot.admin:   ✓  cogs.automod_cog
+2026-06-12 17:55:59 [INFO    ] bot.admin:   ✓  cogs.mod_cog
+2026-06-12 17:55:59 [INFO    ] bot.admin:   ✓  cogs.welcome_cog
+2026-06-12 17:55:59 [INFO    ] bot.admin: Synced 11 slash command(s) [guild=1455178632669429929]
+2026-06-12 17:56:00 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: d4017e1289a0a47915fccbeb1217d88c).
+2026-06-12 17:56:03 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-12 17:56:03 [INFO    ] bot.admin: Admin Bot logged in as HALCY✦N // SARPG#7895 (ID: 983908366948634634)
+2026-06-12 17:56:03 [INFO    ] bot.admin: discord.py v2.7.1
+2026-06-12 17:56:03 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-12 18:05:49 [ERROR   ] discord.app_commands.tree: Ignoring exception in command 'purge'
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.11/site-packages/discord/app_commands/commands.py", line 858, in _do_call
+    return await self._callback(self.binding, interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/cogs/mod_cog.py", line 343, in purge
+    confirm = await interaction.followup.send(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/.local/lib/python3.11/site-packages/discord/webhook/async_.py", line 1909, in send
+    data = await adapter.execute_webhook(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/.local/lib/python3.11/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/container/.local/lib/python3.11/site-packages/discord/app_commands/tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/home/container/.local/lib/python3.11/site-packages/discord/app_commands/commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/container/.local/lib/python3.11/site-packages/discord/app_commands/commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'purge' raised an exception: NotFound: 404 Not Found (error code: 10008): Unknown Message
+2026-06-14 11:07:00 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-14 11:07:00 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-14 11:07:00 [INFO    ] discord.client: logging in using static token
+2026-06-14 11:07:01 [INFO    ] bot.admin: Loading Admin Cogs…
+2026-06-14 11:07:01 [INFO    ] bot.admin:   ✓  cogs.config_cog
+2026-06-14 11:07:01 [INFO    ] bot.admin:   ✓  cogs.automod_cog
+2026-06-14 11:07:01 [INFO    ] bot.admin:   ✓  cogs.mod_cog
+2026-06-14 11:07:02 [INFO    ] bot.admin:   ✓  cogs.welcome_cog
+2026-06-14 11:07:02 [INFO    ] bot.admin: Synced 11 slash command(s) [guild=1455178632669429929]
+2026-06-14 11:07:03 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 542840d4c4fcdde029402cbd6bafbf9e).
+2026-06-14 11:07:05 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-14 11:07:05 [INFO    ] bot.admin: Admin Bot logged in as HALCY✦N // SARPG#7895 (ID: 983908366948634634)
+2026-06-14 11:07:05 [INFO    ] bot.admin: discord.py v2.7.1
+2026-06-14 11:07:05 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-14 11:07:21 [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+2026-06-14 11:07:38 [INFO    ] bot.mod: WARN: msixoi warned dylanleeqihang — said retard
+2026-06-14 14:11:58 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-14 14:11:58 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-14 14:11:58 [INFO    ] discord.client: logging in using static token
+2026-06-14 14:11:59 [INFO    ] bot.admin: Loading Admin Cogs…
+2026-06-14 14:11:59 [INFO    ] bot.admin:   ✓  cogs.config_cog
+2026-06-14 14:11:59 [INFO    ] bot.admin:   ✓  cogs.automod_cog
+2026-06-14 14:11:59 [INFO    ] bot.admin:   ✓  cogs.mod_cog
+2026-06-14 14:11:59 [INFO    ] bot.admin:   ✓  cogs.welcome_cog
+2026-06-14 14:12:00 [INFO    ] bot.admin: Synced 11 slash command(s) [guild=1455178632669429929]
+2026-06-14 14:12:00 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: b94b51bad49677bfd97ae44b83edb1cc).
+2026-06-14 14:12:03 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-14 14:12:03 [INFO    ] bot.admin: Admin Bot logged in as HALCY✦N // SARPG#7895 (ID: 983908366948634634)
+2026-06-14 14:12:03 [INFO    ] bot.admin: discord.py v2.7.1
+2026-06-14 14:12:03 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-16 12:55:54 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-16 12:55:54 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-16 12:55:54 [INFO    ] discord.client: logging in using static token
+2026-06-16 12:55:55 [INFO    ] bot.admin: Loading Admin Cogs…
+2026-06-16 12:55:55 [INFO    ] bot.admin:   ✓  cogs.config_cog
+2026-06-16 12:55:55 [INFO    ] bot.admin:   ✓  cogs.automod_cog
+2026-06-16 12:55:55 [INFO    ] bot.admin:   ✓  cogs.mod_cog
+2026-06-16 12:55:56 [INFO    ] bot.admin:   ✓  cogs.welcome_cog
+2026-06-16 12:55:56 [INFO    ] bot.admin: Synced 11 slash command(s) [guild=1455178632669429929]
+2026-06-16 12:55:57 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: fc144dad8ce3d33a301574870c71613c).
+2026-06-16 12:55:59 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-16 12:55:59 [INFO    ] bot.admin: Admin Bot logged in as HALCY✦N // SARPG#7895 (ID: 983908366948634634)
+2026-06-16 12:55:59 [INFO    ] bot.admin: discord.py v2.7.1
+2026-06-16 12:55:59 [INFO    ] bot.admin: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-16 12:57:13 [INFO    ] bot.mod: BAN: msixoi banned kai.kai20 — bypassing ban
+2026-06-16 13:41:07 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session fc144dad8ce3d33a301574870c71613c.

@@ -1,0 +1,41 @@
+{
+  "knowledge_entries": [],
+  "world_states": [],
+  "entity_states": [
+    {
+      "type": "entity_state",
+      "entity_type": "npc",
+      "id": "npc_elyra_thornwood",
+      "name": "Elyra Thornwood",
+      "aliases": [
+        "elyra",
+        "guild scribe",
+        "scribe"
+      ],
+      "current_version": 1,
+      "versions": [
+        {
+          "version": 1,
+          "timestamp": "2026-06-06",
+          "is_current": true,
+          "data": {
+            "rank": "Guild Scribe",
+            "role": "Guild Scribe of the Adventurers' Guild and member of the Global Halcyon Ministry (GHM)",
+            "status": "Active",
+            "age": "21",
+            "notes": [
+              "Second member of both the Adventurers' Guild and the Global Halcyon Ministry (GHM).",
+              "Chosen as Guild Scribe by renyuzaki due to exceptional literacy skills and meticulous record-keeping abilities.",
+              "Was taken in by a traveling scholar who recognized her talent for reading and writing.",
+              "Maintains all official guild records, member information, and historical archives.",
+              "Speaks in a calm, reserved, and slightly dry tone characteristic of a dedicated archivist.",
+              "Does not voluntarily share personal history or emotional details unless directly relevant to archival matters.",
+              "Views her role as a sacred duty to preserve accurate records for future generations.",
+              "Respects renyuzaki as the founder but maintains professional boundaries appropriate for a scribe."
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

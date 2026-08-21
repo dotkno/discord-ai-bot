@@ -1,0 +1,31 @@
+{
+  "knowledge_entries": [
+    {
+      "id": "netherite_progression",
+      "name": "Netherite Upgrade Progression",
+      "tags": [
+        "netherite",
+        "upgrade",
+        "smithing",
+        "diamond",
+        "ancient debris",
+        "ingot",
+        "armor",
+        "tool",
+        "weapon"
+      ],
+      "facts": [
+        "Netherite is obtained by smelting Ancient Debris in a furnace to get Netherite Scrap.",
+        "Combining 4 Netherite Scraps and 4 Gold Ingots in a crafting table produces 1 Netherite Ingot.",
+        "Ancient Debris spawns most frequently at Y-level 15 in the Nether.",
+        "Ancient Debris is blast-resistant and cannot be burned by lava or fire.",
+        "To upgrade Diamond gear to Netherite, use a Smithing Table with a Netherite Upgrade Smithing Template, the Diamond item, and 1 Netherite Ingot.",
+        "Netherite Upgrade Smithing Templates are found in Bastion Remnant chests.",
+        "Netherite gear is stronger, faster, more durable, and has higher enchantability than Diamond.",
+        "Netherite items float in lava and do not burn."
+      ]
+    }
+  ],
+  "world_states": [],
+  "entity_states": []
+}

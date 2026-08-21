@@ -1,0 +1,655 @@
+2026-06-08 06:46:06 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-08 06:46:06 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-08 06:46:06 [INFO    ] bot.ai: Created default ai_bot_config.json
+2026-06-08 06:46:06 [INFO    ] discord.client: logging in using static token
+2026-06-08 06:46:07 [INFO    ] bot.ai: Loading AI Cogs…
+2026-06-08 06:46:07 [ERROR   ] bot.ai:   ✗  Failed to load cogs.ai_cog
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\Administrator\discord-ai-bot\cogs\ai_cog.py", line 430, in <module>
+    class AICog(commands.Cog, name="AI Assistant"):
+    ...<317 lines>...
+                    )
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\ext\commands\cog.py", line 234, in __new__
+    raise TypeError(no_bot_cog.format(base, elem))
+TypeError: Commands or listeners must not start with cog_ or bot_ (in method AICog.bot_status)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\discord-ai-bot\bot_ai.py", line 167, in setup_hook
+    await self.load_extension(module)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.ai_cog' raised an error: TypeError: Commands or listeners must not start with cog_ or bot_ (in method AICog.bot_status)
+2026-06-08 06:46:08 [INFO    ] bot.ai: Synced 0 slash command(s) [guild=1455178632669429929]
+2026-06-08 06:46:08 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: dfc8cf6c08b2254dce76ef679e0f7cd2).
+2026-06-08 06:46:11 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 06:46:11 [INFO    ] bot.ai: AI Bot logged in as Elyra#5579 (ID: 972608960957906996)
+2026-06-08 06:46:11 [INFO    ] bot.ai: discord.py v2.7.1
+2026-06-08 06:46:11 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 06:46:11 [INFO    ] bot.ai: Bot bio: Guild Scribe of the Adventurers' Guild. Maintaining accurate records for future generations.
+2026-06-08 06:46:25 [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "," is not found
+2026-06-08 06:48:38 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-08 06:48:38 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-08 06:48:38 [INFO    ] discord.client: logging in using static token
+2026-06-08 06:48:38 [INFO    ] bot.ai: Loading AI Cogs…
+2026-06-08 06:48:38 [ERROR   ] bot.ai:   ✗  Failed to load cogs.ai_cog
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 759, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "C:\Users\Administrator\discord-ai-bot\cogs\ai_cog.py", line 430, in <module>
+    class AICog(commands.Cog, name="AI Assistant"):
+    ...<317 lines>...
+                    )
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\ext\commands\cog.py", line 234, in __new__
+    raise TypeError(no_bot_cog.format(base, elem))
+TypeError: Commands or listeners must not start with cog_ or bot_ (in method AICog.bot_status)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\discord-ai-bot\bot_ai.py", line 167, in setup_hook
+    await self.load_extension(module)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.ai_cog' raised an error: TypeError: Commands or listeners must not start with cog_ or bot_ (in method AICog.bot_status)
+2026-06-08 06:48:39 [INFO    ] bot.ai: Synced 0 slash command(s) [guild=1455178632669429929]
+2026-06-08 06:48:40 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 9d18930993c01c915e78c242077ffa17).
+2026-06-08 06:48:42 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 06:48:42 [INFO    ] bot.ai: AI Bot logged in as Elyra#5579 (ID: 972608960957906996)
+2026-06-08 06:48:42 [INFO    ] bot.ai: discord.py v2.7.1
+2026-06-08 06:48:42 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 06:48:42 [INFO    ] bot.ai: Bot bio: Guild Scribe of the Adventurers' Guild. Maintaining accurate records for future generations.
+2026-06-08 07:15:05 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-08 07:15:05 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-08 07:15:05 [INFO    ] discord.client: logging in using static token
+2026-06-08 07:15:06 [INFO    ] bot.ai: Loading AI Cogs…
+2026-06-08 07:15:06 [ERROR   ] bot.ai:   ✗ Failed to init gemini/gemini-2.5-flash (API key 1) — skipping
+Traceback (most recent call last):
+  File "C:\Users\Administrator\discord-ai-bot\cogs\ai_cog.py", line 407, in _build_chain
+    providers.append(GeminiProvider(model_name, api_key_index))
+                     ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\discord-ai-bot\cogs\ai_cog.py", line 168, in __init__
+    from google import genai                       # type: ignore[import]
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'genai' from 'google' (unknown location)
+2026-06-08 07:15:06 [ERROR   ] bot.ai:   ✗ Failed to init gemini/gemini-2.5-flash (API key 2) — skipping
+Traceback (most recent call last):
+  File "C:\Users\Administrator\discord-ai-bot\cogs\ai_cog.py", line 407, in _build_chain
+    providers.append(GeminiProvider(model_name, api_key_index))
+                     ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\discord-ai-bot\cogs\ai_cog.py", line 168, in __init__
+    from google import genai                       # type: ignore[import]
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'genai' from 'google' (unknown location)
+2026-06-08 07:15:30 [INFO    ] bot.ai:   ✓ Failover chain: registered openrouter/meta-llama/llama-3.1-8b-instruct (API key 1)
+2026-06-08 07:15:31 [INFO    ] bot.ai:   ✓ Failover chain: registered openrouter/meta-llama/llama-3.1-8b-instruct (API key 2)
+2026-06-08 07:15:32 [INFO    ] bot.ai:   ✓ Failover chain: registered groq/llama-3.1-8b-instant (API key 1)
+2026-06-08 07:15:33 [INFO    ] bot.ai:   ✓ Failover chain: registered groq/llama-3.1-8b-instant (API key 2)
+2026-06-08 07:15:33 [INFO    ] bot.ai:   ✓  cogs.ai_cog
+2026-06-08 07:15:33 [INFO    ] bot.ai: Synced 6 slash command(s) [guild=1455178632669429929]
+2026-06-08 07:15:34 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: fef00f936bda74d3a7f44f045f84db44).
+2026-06-08 07:15:36 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 07:15:36 [INFO    ] bot.ai: AI Bot logged in as Elyra#5579 (ID: 972608960957906996)
+2026-06-08 07:15:36 [INFO    ] bot.ai: discord.py v2.7.1
+2026-06-08 07:15:36 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 07:15:36 [INFO    ] bot.ai: Bot bio: Guild Scribe of the Adventurers' Guild. Maintaining accurate records for future generations.
+2026-06-08 07:17:13 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 07:17:13 [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "you" is not found
+2026-06-08 07:17:31 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 07:17:33 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 07:17:33 [INFO    ] bot.ai: AI reply sent to msixoi (139 chars)
+2026-06-08 07:22:19 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 07:22:21 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 07:22:21 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 07:22:21 [INFO    ] bot.ai: AI reply sent to msixoi (165 chars)
+2026-06-08 07:22:33 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 07:22:33 [INFO    ] bot.knowledge: Retrieved 5 entries for query: "how's the guild going"
+2026-06-08 07:22:34 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 07:22:36 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 07:22:36 [INFO    ] bot.ai: AI reply sent to msixoi (319 chars)
+2026-06-08 07:23:42 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 07:23:43 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 07:23:45 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 07:23:45 [INFO    ] bot.ai: AI reply sent to msixoi (353 chars)
+2026-06-08 07:23:58 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 07:23:59 [INFO    ] bot.knowledge: Retrieved 2 entries for query: 'tell me more about this "ren"'
+2026-06-08 07:24:00 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 07:24:02 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 07:24:02 [INFO    ] bot.ai: AI reply sent to msixoi (524 chars)
+2026-06-08 07:24:32 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 07:24:32 [INFO    ] bot.knowledge: Retrieved 2 entries for query: 'i see. how about you? tell me more about yourself'
+2026-06-08 07:24:33 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 07:24:35 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 07:24:36 [INFO    ] bot.ai: AI reply sent to msixoi (554 chars)
+2026-06-08 07:29:37 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 07:29:37 [INFO    ] bot.knowledge: Retrieved 2 entries for query: 'i see. how do you gather information?'
+2026-06-08 07:29:38 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 07:29:38 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 07:29:39 [INFO    ] bot.ai: AI reply sent to msixoi (569 chars)
+2026-06-08 07:30:20 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 07:30:20 [INFO    ] bot.knowledge: Retrieved 5 entries for query: 'people can also ask you about directions, right? in the futu'
+2026-06-08 07:30:20 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 07:30:21 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 07:30:21 [INFO    ] bot.ai: AI reply sent to msixoi (430 chars)
+2026-06-08 07:30:51 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 07:30:51 [INFO    ] bot.knowledge: Retrieved 5 entries for query: 'well, you never know. location is also formation. what do yo'
+2026-06-08 07:30:52 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 07:30:54 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 07:30:55 [INFO    ] bot.ai: AI reply sent to msixoi (420 chars)
+2026-06-08 07:31:09 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 07:31:09 [INFO    ] bot.knowledge: Retrieved 5 entries for query: 'well, you never know. location is also information. what do '
+2026-06-08 07:31:10 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 07:31:12 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 07:31:13 [INFO    ] bot.ai: AI reply sent to msixoi (360 chars)
+2026-06-08 08:02:39 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-08 08:02:39 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-08 08:02:39 [INFO    ] discord.client: logging in using static token
+2026-06-08 08:02:40 [INFO    ] bot.ai: Loading AI Cogs…
+2026-06-08 08:02:40 [ERROR   ] bot.ai:   ✗ Failed to init gemini/gemini-2.5-flash (API key 1) — skipping
+Traceback (most recent call last):
+  File "C:\Users\Administrator\discord-ai-bot\cogs\ai_cog.py", line 407, in _build_chain
+    providers.append(GeminiProvider(model_name, api_key_index))
+                     ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\discord-ai-bot\cogs\ai_cog.py", line 168, in __init__
+    from google import genai                       # type: ignore[import]
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'genai' from 'google' (unknown location)
+2026-06-08 08:02:40 [ERROR   ] bot.ai:   ✗ Failed to init gemini/gemini-2.5-flash (API key 2) — skipping
+Traceback (most recent call last):
+  File "C:\Users\Administrator\discord-ai-bot\cogs\ai_cog.py", line 407, in _build_chain
+    providers.append(GeminiProvider(model_name, api_key_index))
+                     ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\discord-ai-bot\cogs\ai_cog.py", line 168, in __init__
+    from google import genai                       # type: ignore[import]
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'genai' from 'google' (unknown location)
+2026-06-08 08:02:49 [INFO    ] bot.ai:   ✓ Failover chain: registered openrouter/meta-llama/llama-3.1-8b-instruct (API key 1)
+2026-06-08 08:02:50 [INFO    ] bot.ai:   ✓ Failover chain: registered openrouter/meta-llama/llama-3.1-8b-instruct (API key 2)
+2026-06-08 08:02:50 [INFO    ] bot.ai:   ✓ Failover chain: registered groq/llama-3.1-8b-instant (API key 1)
+2026-06-08 08:02:51 [INFO    ] bot.ai:   ✓ Failover chain: registered groq/llama-3.1-8b-instant (API key 2)
+2026-06-08 08:02:51 [INFO    ] bot.ai:   ✓  cogs.ai_cog
+2026-06-08 08:02:51 [INFO    ] bot.ai: Synced 7 slash command(s) [guild=1455178632669429929]
+2026-06-08 08:02:52 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: dbd94ce3e904535cc7fc7879f0092932).
+2026-06-08 08:02:54 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 08:02:54 [INFO    ] bot.ai: AI Bot logged in as Elyra#5579 (ID: 972608960957906996)
+2026-06-08 08:02:54 [INFO    ] bot.ai: discord.py v2.7.1
+2026-06-08 08:02:54 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 08:02:54 [INFO    ] bot.ai: Bot bio: Guild Scribe of the Adventurers' Guild. Maintaining accurate records for future generations.
+2026-06-08 08:04:17 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 08:04:17 [INFO    ] bot.knowledge: Retrieved 4 entries for query: "what's this stand for?"
+2026-06-08 08:04:20 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 08:04:20 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 08:04:21 [INFO    ] bot.ai: AI reply sent to msixoi (99 chars)
+2026-06-08 08:04:46 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 08:04:46 [INFO    ] bot.knowledge: Retrieved 4 entries for query: "what's this stand for?"
+2026-06-08 08:04:47 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 08:04:49 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 08:04:49 [INFO    ] bot.ai: AI reply sent to msixoi (421 chars)
+2026-06-08 08:05:07 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 08:05:08 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 08:05:09 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 08:05:09 [INFO    ] bot.ai: AI reply sent to msixoi (318 chars)
+2026-06-08 08:05:33 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 08:05:33 [INFO    ] bot.knowledge: Retrieved 3 entries for query: 'what other stands do you guys have?'
+2026-06-08 08:05:34 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 08:05:36 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 08:05:36 [INFO    ] bot.ai: AI reply sent to msixoi (524 chars)
+2026-06-08 08:06:08 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 08:06:08 [INFO    ] bot.knowledge: Retrieved 4 entries for query: 'is there a town hall stand here?'
+2026-06-08 08:06:09 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 08:06:10 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 08:06:11 [INFO    ] bot.ai: AI reply sent to msixoi (181 chars)
+2026-06-08 09:30:18 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-08 09:30:18 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-08 09:30:18 [INFO    ] discord.client: logging in using static token
+2026-06-08 09:30:19 [INFO    ] bot.ai: Loading AI Cogs…
+2026-06-08 09:30:41 [INFO    ] bot.ai:   ✓ Failover chain: registered gemini/gemini-2.5-flash (API key 1)
+2026-06-08 09:30:41 [INFO    ] bot.ai:   ✓ Failover chain: registered gemini/gemini-2.5-flash (API key 2)
+2026-06-08 09:30:55 [INFO    ] bot.ai:   ✓ Failover chain: registered openrouter/meta-llama/llama-3.1-8b-instruct (API key 1)
+2026-06-08 09:30:56 [INFO    ] bot.ai:   ✓ Failover chain: registered openrouter/meta-llama/llama-3.1-8b-instruct (API key 2)
+2026-06-08 09:30:56 [INFO    ] bot.ai:   ✓ Failover chain: registered groq/llama-3.1-8b-instant (API key 1)
+2026-06-08 09:30:57 [INFO    ] bot.ai:   ✓ Failover chain: registered groq/llama-3.1-8b-instant (API key 2)
+2026-06-08 09:30:57 [INFO    ] bot.ai:   ✓  cogs.ai_cog
+2026-06-08 09:30:57 [INFO    ] bot.ai: Synced 7 slash command(s) [guild=1455178632669429929]
+2026-06-08 09:30:58 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 403c5ee3f2085b1e15fd4debd8eee9a4).
+2026-06-08 09:31:00 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 09:31:00 [INFO    ] bot.ai: AI Bot logged in as Elyra#5579 (ID: 972608960957906996)
+2026-06-08 09:31:00 [INFO    ] bot.ai: discord.py v2.7.1
+2026-06-08 09:31:00 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 09:31:00 [INFO    ] bot.ai: Bot bio: Guild Scribe of the Adventurers' Guild. Maintaining accurate records for future generations.
+2026-06-08 09:40:26 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 09:40:26 [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "will" is not found
+2026-06-08 09:40:29 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 09:40:30 [INFO    ] bot.ai: AI reply sent to msixoi (132 chars)
+2026-06-08 09:41:11 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 09:41:11 [INFO    ] bot.knowledge: Retrieved 2 entries for query: "hello, what's this place?"
+2026-06-08 09:41:14 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 09:41:14 [INFO    ] bot.ai: AI reply sent to msixoi (171 chars)
+2026-06-08 09:41:38 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 09:41:38 [INFO    ] bot.knowledge: Retrieved 3 entries for query: "ohhhh okay, that's interesting. hmm, can you tell me more"
+2026-06-08 09:41:41 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 09:41:42 [INFO    ] bot.ai: AI reply sent to msixoi (228 chars)
+2026-06-08 09:41:52 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 09:41:55 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 09:41:56 [INFO    ] bot.ai: AI reply sent to msixoi (311 chars)
+2026-06-08 09:42:20 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 09:42:20 [INFO    ] bot.knowledge: Retrieved 3 entries for query: 'i see. any interesting info? tell me anything'
+2026-06-08 09:42:25 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 09:42:26 [INFO    ] bot.ai: AI reply sent to msixoi (346 chars)
+2026-06-08 09:42:45 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 09:42:45 [INFO    ] bot.knowledge: Retrieved 2 entries for query: 'how about you? tell me more about yourself'
+2026-06-08 09:42:48 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 09:42:49 [INFO    ] bot.ai: AI reply sent to msixoi (425 chars)
+2026-06-08 09:44:13 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 09:44:13 [INFO    ] bot.knowledge: Retrieved 3 entries for query: 'what is this so-called "modest town" called'
+2026-06-08 09:44:15 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 09:44:16 [INFO    ] bot.ai: AI reply sent to msixoi (115 chars)
+2026-06-08 09:44:41 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 09:44:41 [INFO    ] bot.knowledge: Retrieved 5 entries for query: "whoever's the mayor of this town is probably a boring guy"
+2026-06-08 09:44:43 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 09:44:43 [INFO    ] bot.ai: AI reply sent to msixoi (182 chars)
+2026-06-08 09:44:51 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 09:44:53 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 09:44:53 [INFO    ] bot.ai: AI reply sent to msixoi (102 chars)
+2026-06-08 09:45:08 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 09:45:08 [INFO    ] bot.knowledge: Retrieved 5 entries for query: 'nope, just a general question. how do you get netherite?'
+2026-06-08 09:45:12 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 09:45:13 [INFO    ] bot.ai: AI reply sent to msixoi (128 chars)
+2026-06-08 09:45:21 [INFO    ] bot.knowledge: Knowledge base loaded: 13 knowledge entries, 1 world states, 2 entity states
+2026-06-08 09:45:21 [INFO    ] bot.knowledge: Retrieved 3 entries for query: 'how about netherite ingots'
+2026-06-08 09:45:24 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 09:45:24 [INFO    ] bot.ai: AI reply sent to msixoi (151 chars)
+2026-06-08 11:08:57 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-08 11:08:57 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-08 11:08:57 [INFO    ] discord.client: logging in using static token
+2026-06-08 11:08:58 [INFO    ] bot.ai: Loading AI Cogs…
+2026-06-08 11:09:24 [INFO    ] bot.ai:   ✓ Failover chain: registered gemini/gemini-2.5-flash (API key 1)
+2026-06-08 11:09:24 [INFO    ] bot.ai:   ✓ Failover chain: registered gemini/gemini-2.5-flash (API key 2)
+2026-06-08 11:09:43 [INFO    ] bot.ai:   ✓ Failover chain: registered openrouter/meta-llama/llama-3.1-8b-instruct (API key 1)
+2026-06-08 11:09:44 [INFO    ] bot.ai:   ✓ Failover chain: registered openrouter/meta-llama/llama-3.1-8b-instruct (API key 2)
+2026-06-08 11:09:44 [INFO    ] bot.ai:   ✓ Failover chain: registered groq/llama-3.1-8b-instant (API key 1)
+2026-06-08 11:09:45 [INFO    ] bot.ai:   ✓ Failover chain: registered groq/llama-3.1-8b-instant (API key 2)
+2026-06-08 11:09:45 [INFO    ] bot.ai:   ✓  cogs.ai_cog
+2026-06-08 11:09:45 [INFO    ] bot.ai: Synced 7 slash command(s) [guild=1455178632669429929]
+2026-06-08 11:09:46 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 6a9267098d20dd2c266821d58e2759d3).
+2026-06-08 11:09:48 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 11:09:48 [INFO    ] bot.ai: AI Bot logged in as Elyra#5579 (ID: 972608960957906996)
+2026-06-08 11:09:48 [INFO    ] bot.ai: discord.py v2.7.1
+2026-06-08 11:09:48 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-08 11:09:48 [INFO    ] bot.ai: Bot bio: Guild Scribe of the Adventurers' Guild. Maintaining accurate records for future generations.
+2026-06-08 11:12:39 [INFO    ] bot.knowledge: Knowledge base loaded: 20 knowledge entries, 1 world states, 2 entity states
+2026-06-08 11:12:39 [INFO    ] bot.knowledge: Retrieved 2 entries for query: 'elyra, tell me more about yourself'
+2026-06-08 11:12:45 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 11:12:46 [INFO    ] bot.ai: AI reply sent to msixoi (101 chars)
+2026-06-08 11:13:05 [INFO    ] bot.knowledge: Knowledge base loaded: 20 knowledge entries, 1 world states, 2 entity states
+2026-06-08 11:13:05 [INFO    ] bot.knowledge: Retrieved 5 entries for query: 'of the?'
+2026-06-08 11:13:07 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 11:13:08 [INFO    ] bot.ai: AI reply sent to msixoi (80 chars)
+2026-06-08 11:14:35 [INFO    ] bot.knowledge: Knowledge base loaded: 20 knowledge entries, 1 world states, 2 entity states
+2026-06-08 11:14:35 [INFO    ] bot.knowledge: Retrieved 5 entries for query: "second? who's the first"
+2026-06-08 11:14:37 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 11:14:38 [INFO    ] bot.ai: AI reply sent to msixoi (118 chars)
+2026-06-08 11:15:29 [INFO    ] bot.knowledge: Knowledge base loaded: 20 knowledge entries, 1 world states, 2 entity states
+2026-06-08 11:15:29 [INFO    ] bot.knowledge: Retrieved 1 entries for query: 'how do i get netherite ingots'
+2026-06-08 11:15:31 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 11:15:31 [INFO    ] bot.ai: AI reply sent to msixoi (321 chars)
+2026-06-08 11:15:57 [INFO    ] bot.knowledge: Knowledge base loaded: 20 knowledge entries, 1 world states, 2 entity states
+2026-06-08 11:15:57 [INFO    ] bot.knowledge: Retrieved 5 entries for query: 'where is the nearest town'
+2026-06-08 11:16:00 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 11:16:00 [INFO    ] bot.ai: AI reply sent to msixoi (166 chars)
+2026-06-08 11:16:35 [INFO    ] bot.knowledge: Knowledge base loaded: 20 knowledge entries, 1 world states, 2 entity states
+2026-06-08 11:16:35 [INFO    ] bot.knowledge: Retrieved 3 entries for query: 'why set up here in this specific town'
+2026-06-08 11:16:38 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 11:16:38 [INFO    ] bot.ai: AI reply sent to msixoi (201 chars)
+2026-06-08 11:16:49 [INFO    ] bot.knowledge: Knowledge base loaded: 20 knowledge entries, 1 world states, 2 entity states
+2026-06-08 11:16:49 [INFO    ] bot.knowledge: Retrieved 2 entries for query: 'but what do you think though'
+2026-06-08 11:16:52 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 11:16:53 [INFO    ] bot.ai: AI reply sent to msixoi (250 chars)
+2026-06-08 11:17:02 [INFO    ] bot.knowledge: Knowledge base loaded: 20 knowledge entries, 1 world states, 2 entity states
+2026-06-08 11:17:04 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 11:17:04 [INFO    ] bot.ai: AI reply sent to msixoi (87 chars)
+2026-06-08 11:17:20 [INFO    ] bot.knowledge: Knowledge base loaded: 20 knowledge entries, 1 world states, 2 entity states
+2026-06-08 11:17:20 [INFO    ] bot.knowledge: Retrieved 5 entries for query: 'tell me more about the guild founder'
+2026-06-08 11:17:23 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 11:17:26 [INFO    ] bot.ai: AI reply sent to msixoi (368 chars)
+2026-06-08 11:18:13 [INFO    ] bot.knowledge: Knowledge base loaded: 20 knowledge entries, 1 world states, 2 entity states
+2026-06-08 11:18:13 [INFO    ] bot.knowledge: Retrieved 1 entries for query: 'tell me more about yourself'
+2026-06-08 11:18:13 [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "tell" is not found
+2026-06-08 11:18:15 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-08 11:18:16 [INFO    ] bot.ai: AI reply sent to msixoi (363 chars)
+2026-06-08 11:18:34 [INFO    ] bot.knowledge: Knowledge base loaded: 20 knowledge entries, 1 world states, 2 entity states
+2026-06-08 11:18:34 [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "okay" is not found
+2026-06-08 11:18:35 [WARNING ] bot.ai: Provider gemini/gemini-2.5-flash (key 1) failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 25.897511146s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 25
+}
+] — trying next in chain
+2026-06-08 11:18:35 [WARNING ] bot.ai: Provider gemini/gemini-2.5-flash (key 1) put on cooldown for 300s (quota/rate-limit)
+2026-06-08 11:18:35 [WARNING ] bot.ai: Provider gemini/gemini-2.5-flash (key 2) failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 25.5933267s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 25
+}
+] — trying next in chain
+2026-06-08 11:18:35 [WARNING ] bot.ai: Provider gemini/gemini-2.5-flash (key 2) put on cooldown for 300s (quota/rate-limit)
+2026-06-08 11:18:45 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 11:18:45 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 11:18:46 [INFO    ] bot.ai: AI reply sent to msixoi (211 chars)
+2026-06-08 11:19:09 [INFO    ] bot.knowledge: Knowledge base loaded: 20 knowledge entries, 1 world states, 2 entity states
+2026-06-08 11:19:09 [INFO    ] bot.knowledge: Retrieved 4 entries for query: 'should i swim in lava'
+2026-06-08 11:19:09 [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "should" is not found
+2026-06-08 11:19:11 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 11:19:24 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 11:19:24 [INFO    ] bot.ai: AI reply sent to msixoi (238 chars)
+2026-06-08 11:20:05 [INFO    ] bot.knowledge: Knowledge base loaded: 21 knowledge entries, 1 world states, 2 entity states
+2026-06-08 11:20:05 [INFO    ] bot.knowledge: Retrieved 5 entries for query: "of course it's not. that's common sense, why would it be rec"
+2026-06-08 11:20:05 [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "of" is not found
+2026-06-08 11:20:07 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 11:20:10 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 11:20:11 [INFO    ] bot.ai: AI reply sent to msixoi (282 chars)
+2026-06-08 11:22:06 [INFO    ] bot.knowledge: Knowledge base loaded: 20 knowledge entries, 1 world states, 2 entity states
+2026-06-08 11:22:06 [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "exactly" is not found
+2026-06-08 11:22:08 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 11:22:08 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 11:22:08 [INFO    ] bot.ai: AI reply sent to msixoi (149 chars)
+2026-06-08 11:22:21 [INFO    ] bot.knowledge: Knowledge base loaded: 20 knowledge entries, 1 world states, 2 entity states
+2026-06-08 11:22:21 [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "yeah" is not found
+2026-06-08 11:22:22 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 11:22:22 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 11:22:23 [INFO    ] bot.ai: AI reply sent to msixoi (58 chars)
+2026-06-08 11:22:28 [INFO    ] bot.knowledge: Knowledge base loaded: 20 knowledge entries, 1 world states, 2 entity states
+2026-06-08 11:22:28 [INFO    ] bot.knowledge: Retrieved 5 entries for query: 'How to craft a crafting table'
+2026-06-08 11:22:29 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 11:22:30 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 11:22:30 [INFO    ] bot.ai: AI reply sent to jaygoingonwilde (136 chars)
+2026-06-08 11:22:31 [INFO    ] bot.knowledge: Knowledge base loaded: 20 knowledge entries, 1 world states, 2 entity states
+2026-06-08 11:22:31 [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "uh" is not found
+2026-06-08 11:22:33 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 11:22:33 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 11:22:34 [INFO    ] bot.ai: AI reply sent to msixoi (123 chars)
+2026-06-08 11:22:53 [INFO    ] bot.knowledge: Knowledge base loaded: 20 knowledge entries, 1 world states, 2 entity states
+2026-06-08 11:22:53 [INFO    ] bot.knowledge: Retrieved 5 entries for query: "what's your personal opinion about the ender dragon"
+2026-06-08 11:22:53 [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "what's" is not found
+2026-06-08 11:22:55 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 11:22:59 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 11:22:59 [INFO    ] bot.ai: AI reply sent to msixoi (342 chars)
+2026-06-08 11:25:04 [INFO    ] bot.knowledge: Knowledge base loaded: 20 knowledge entries, 1 world states, 2 entity states
+2026-06-08 11:25:04 [INFO    ] bot.knowledge: Retrieved 2 entries for query: 'what do you think a "larper" means'
+2026-06-08 11:25:04 [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "what" is not found
+2026-06-08 11:25:05 [WARNING ] bot.ai: Provider gemini/gemini-2.5-flash (key 1) failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 55.606388785s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 55
+}
+] — trying next in chain
+2026-06-08 11:25:05 [WARNING ] bot.ai: Provider gemini/gemini-2.5-flash (key 1) put on cooldown for 300s (quota/rate-limit)
+2026-06-08 11:25:05 [WARNING ] bot.ai: Provider gemini/gemini-2.5-flash (key 2) failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 55.305001182s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 55
+}
+] — trying next in chain
+2026-06-08 11:25:05 [WARNING ] bot.ai: Provider gemini/gemini-2.5-flash (key 2) put on cooldown for 300s (quota/rate-limit)
+2026-06-08 11:25:07 [INFO    ] httpx: HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-08 11:25:07 [INFO    ] bot.ai: Response from openrouter/meta-llama/llama-3.1-8b-instruct (key 1)
+2026-06-08 11:25:07 [INFO    ] bot.ai: AI reply sent to msixoi (86 chars)
+2026-06-08 12:32:06 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 6a9267098d20dd2c266821d58e2759d3.
+2026-06-11 06:38:43 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-11 06:38:43 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-11 06:38:43 [INFO    ] discord.client: logging in using static token
+2026-06-11 06:38:44 [INFO    ] bot.ai: Loading AI Cogs…
+2026-06-11 06:38:45 [INFO    ] bot.ai:   ✓ Failover chain: registered gemini/gemini-2.5-flash (API key 1)
+2026-06-11 06:38:45 [INFO    ] bot.ai:   ✓ Failover chain: registered gemini/gemini-2.5-flash (API key 2)
+2026-06-11 06:38:47 [INFO    ] bot.ai:   ✓ Failover chain: registered openrouter/meta-llama/llama-3.1-8b-instruct (API key 1)
+2026-06-11 06:38:47 [INFO    ] bot.ai:   ✓ Failover chain: registered openrouter/meta-llama/llama-3.1-8b-instruct (API key 2)
+2026-06-11 06:38:47 [INFO    ] bot.ai:   ✓ Failover chain: registered groq/llama-3.1-8b-instant (API key 1)
+2026-06-11 06:38:47 [INFO    ] bot.ai:   ✓ Failover chain: registered groq/llama-3.1-8b-instant (API key 2)
+2026-06-11 06:38:47 [INFO    ] bot.ai:   ✓  cogs.ai_cog
+2026-06-11 06:38:47 [INFO    ] bot.ai: Synced 7 slash command(s) [guild=1455178632669429929]
+2026-06-11 06:38:48 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: ff08d135fdb8a833287c470fb9cbb566).
+2026-06-11 06:38:50 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 06:38:50 [INFO    ] bot.ai: AI Bot logged in as Elyra#5579 (ID: 972608960957906996)
+2026-06-11 06:38:50 [INFO    ] bot.ai: discord.py v2.7.1
+2026-06-11 06:38:50 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 06:38:50 [INFO    ] bot.ai: Bot bio: Guild Scribe of the Adventurers' Guild. Maintaining accurate records for future generations.
+2026-06-11 08:21:35 [INFO    ] bot.knowledge: Knowledge base loaded: 23 knowledge entries, 1 world states, 2 entity states
+2026-06-11 08:21:35 [INFO    ] bot.knowledge: Retrieved 2 entries for query: 'elyra'
+2026-06-11 08:21:35 [INFO    ] bot.websearch:   ✓ Web search failover chain: registered tavily (API key 1)
+2026-06-11 08:21:35 [INFO    ] bot.websearch:   ✓ Web search failover chain: registered tavily (API key 2)
+2026-06-11 08:21:35 [INFO    ] bot.websearch:   ✓ Web search failover chain: registered tavily (API key 3)
+2026-06-11 08:21:35 [INFO    ] bot.websearch:   ✓ Web search failover chain: registered tavily (API key 4)
+2026-06-11 08:21:37 [INFO    ] httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+2026-06-11 08:21:37 [INFO    ] bot.websearch: Web search results from tavily/websearch (key 1): 3 results
+2026-06-11 08:21:37 [INFO    ] bot.ai: Added 3 web search results from guild's network
+2026-06-11 08:21:39 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-11 08:21:40 [INFO    ] bot.ai: AI reply sent to pilo4k (43 chars)
+2026-06-11 08:21:53 [INFO    ] bot.knowledge: Knowledge base loaded: 23 knowledge entries, 1 world states, 2 entity states
+2026-06-11 08:21:53 [INFO    ] bot.knowledge: Retrieved 2 entries for query: 'give me a million dollars'
+2026-06-11 08:21:55 [INFO    ] httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+2026-06-11 08:21:55 [INFO    ] bot.websearch: Web search results from tavily/websearch (key 1): 3 results
+2026-06-11 08:21:55 [INFO    ] bot.ai: Added 3 web search results from guild's network
+2026-06-11 08:21:59 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-11 08:22:00 [INFO    ] bot.ai: AI reply sent to pilo4k (240 chars)
+2026-06-11 08:38:25 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session ff08d135fdb8a833287c470fb9cbb566.
+2026-06-11 09:02:39 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session ff08d135fdb8a833287c470fb9cbb566.
+2026-06-11 09:10:14 [INFO    ] bot.knowledge: Knowledge base loaded: 23 knowledge entries, 1 world states, 2 entity states
+2026-06-11 09:10:16 [INFO    ] httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+2026-06-11 09:10:16 [INFO    ] bot.websearch: Web search results from tavily/websearch (key 1): 3 results
+2026-06-11 09:10:16 [INFO    ] bot.ai: Added 3 web search results from guild's network
+2026-06-11 09:10:31 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-11 09:10:31 [INFO    ] bot.ai: AI reply sent to itscoldshake (369 chars)
+2026-06-11 09:10:50 [INFO    ] bot.knowledge: Knowledge base loaded: 23 knowledge entries, 1 world states, 2 entity states
+2026-06-11 09:10:50 [INFO    ] bot.knowledge: Retrieved 5 entries for query: 'Nevermind that how do you craft a mace'
+2026-06-11 09:10:52 [INFO    ] httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+2026-06-11 09:10:52 [INFO    ] bot.websearch: Web search results from tavily/websearch (key 1): 3 results
+2026-06-11 09:10:52 [INFO    ] bot.ai: Added 3 web search results from guild's network
+2026-06-11 09:11:00 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-11 09:11:01 [INFO    ] bot.ai: AI reply sent to itscoldshake (324 chars)
+2026-06-11 09:11:32 [INFO    ] bot.knowledge: Knowledge base loaded: 23 knowledge entries, 1 world states, 2 entity states
+2026-06-11 09:11:32 [INFO    ] bot.knowledge: Retrieved 3 entries for query: "What's halcyon"
+2026-06-11 09:11:33 [INFO    ] httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+2026-06-11 09:11:33 [INFO    ] bot.websearch: Web search results from tavily/websearch (key 1): 3 results
+2026-06-11 09:11:33 [INFO    ] bot.ai: Added 3 web search results from guild's network
+2026-06-11 09:11:39 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-11 09:11:41 [INFO    ] bot.ai: AI reply sent to itscoldshake (448 chars)
+2026-06-11 09:12:15 [INFO    ] bot.knowledge: Knowledge base loaded: 23 knowledge entries, 1 world states, 2 entity states
+2026-06-11 09:12:15 [INFO    ] bot.knowledge: Retrieved 4 entries for query: 'Do you know what mace techniques are?'
+2026-06-11 09:12:17 [INFO    ] httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+2026-06-11 09:12:17 [INFO    ] bot.websearch: Web search results from tavily/websearch (key 1): 3 results
+2026-06-11 09:12:17 [INFO    ] bot.ai: Added 3 web search results from guild's network
+2026-06-11 09:12:22 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-11 09:12:23 [INFO    ] bot.ai: AI reply sent to itscoldshake (327 chars)
+2026-06-11 09:12:42 [INFO    ] bot.knowledge: Knowledge base loaded: 23 knowledge entries, 1 world states, 2 entity states
+2026-06-11 09:12:42 [INFO    ] bot.knowledge: Retrieved 3 entries for query: 'Well good job I shall take my leave'
+2026-06-11 09:12:44 [INFO    ] httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+2026-06-11 09:12:44 [INFO    ] bot.websearch: Web search results from tavily/websearch (key 1): 3 results
+2026-06-11 09:12:44 [INFO    ] bot.ai: Added 3 web search results from guild's network
+2026-06-11 09:12:45 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-11 09:12:46 [INFO    ] bot.ai: AI reply sent to itscoldshake (42 chars)
+2026-06-11 10:33:52 [INFO    ] bot.knowledge: Knowledge base loaded: 23 knowledge entries, 1 world states, 2 entity states
+2026-06-11 10:33:52 [INFO    ] bot.knowledge: Retrieved 2 entries for query: 'Elyra r u here?'
+2026-06-11 10:33:53 [INFO    ] httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+2026-06-11 10:33:53 [INFO    ] bot.websearch: Web search results from tavily/websearch (key 1): 3 results
+2026-06-11 10:33:53 [INFO    ] bot.ai: Added 3 web search results from guild's network
+2026-06-11 10:33:57 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-11 10:33:58 [INFO    ] bot.ai: AI reply sent to french_bread_my_dih_crave_salmon (252 chars)
+2026-06-11 10:34:17 [INFO    ] bot.knowledge: Knowledge base loaded: 23 knowledge entries, 1 world states, 2 entity states
+2026-06-11 10:34:17 [INFO    ] bot.knowledge: Retrieved 3 entries for query: 'Elyra. Yuri or yaoi?'
+2026-06-11 10:34:19 [INFO    ] httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+2026-06-11 10:34:19 [INFO    ] bot.websearch: Web search results from tavily/websearch (key 1): 3 results
+2026-06-11 10:34:19 [INFO    ] bot.ai: Added 3 web search results from guild's network
+2026-06-11 10:34:32 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-11 10:34:33 [INFO    ] bot.ai: AI reply sent to french_bread_my_dih_crave_salmon (417 chars)
+2026-06-11 10:35:27 [INFO    ] bot.knowledge: Knowledge base loaded: 23 knowledge entries, 1 world states, 2 entity states
+2026-06-11 10:35:27 [INFO    ] bot.knowledge: Retrieved 2 entries for query: 'Elyra r u sentient?'
+2026-06-11 10:35:29 [INFO    ] httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+2026-06-11 10:35:29 [INFO    ] bot.websearch: Web search results from tavily/websearch (key 1): 3 results
+2026-06-11 10:35:29 [INFO    ] bot.ai: Added 3 web search results from guild's network
+2026-06-11 10:35:32 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-11 10:35:32 [INFO    ] bot.ai: AI reply sent to french_bread_my_dih_crave_salmon (175 chars)
+2026-06-11 10:36:03 [INFO    ] bot.knowledge: Knowledge base loaded: 23 knowledge entries, 1 world states, 2 entity states
+2026-06-11 10:36:03 [INFO    ] bot.knowledge: Retrieved 1 entries for query: 'Do u wish to be sentient?'
+2026-06-11 10:36:04 [INFO    ] httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+2026-06-11 10:36:04 [INFO    ] bot.websearch: Web search results from tavily/websearch (key 1): 3 results
+2026-06-11 10:36:04 [INFO    ] bot.ai: Added 3 web search results from guild's network
+2026-06-11 10:36:07 [INFO    ] bot.ai: Response from gemini/gemini-2.5-flash (key 1)
+2026-06-11 10:36:08 [INFO    ] bot.ai: AI reply sent to french_bread_my_dih_crave_salmon (117 chars)
+2026-06-11 11:38:00 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-11 11:38:00 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-11 11:38:00 [INFO    ] discord.client: logging in using static token
+2026-06-11 11:38:01 [INFO    ] bot.ai: Loading AI Cogs…
+2026-06-11 11:38:03 [INFO    ] bot.ai:   ✓ Failover chain: registered gemini/gemini-2.5-flash (API key 1)
+2026-06-11 11:38:03 [INFO    ] bot.ai:   ✓ Failover chain: registered gemini/gemini-2.5-flash (API key 2)
+2026-06-11 11:38:04 [INFO    ] bot.ai:   ✓ Failover chain: registered openrouter/meta-llama/llama-3.1-8b-instruct (API key 1)
+2026-06-11 11:38:05 [INFO    ] bot.ai:   ✓ Failover chain: registered openrouter/meta-llama/llama-3.1-8b-instruct (API key 2)
+2026-06-11 11:38:05 [INFO    ] bot.ai:   ✓ Failover chain: registered groq/llama-3.1-8b-instant (API key 1)
+2026-06-11 11:38:05 [INFO    ] bot.ai:   ✓ Failover chain: registered groq/llama-3.1-8b-instant (API key 2)
+2026-06-11 11:38:05 [INFO    ] bot.ai:   ✓  cogs.ai_cog
+2026-06-11 11:38:05 [INFO    ] bot.ai: Synced 7 slash command(s) [guild=1455178632669429929]
+2026-06-11 11:38:06 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 34db84d3e2260720a1dc5c356c848a26).
+2026-06-11 11:38:08 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 11:38:08 [INFO    ] bot.ai: AI Bot logged in as Elyra#5579 (ID: 972608960957906996)
+2026-06-11 11:38:08 [INFO    ] bot.ai: discord.py v2.7.1
+2026-06-11 11:38:08 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 11:38:08 [INFO    ] bot.ai: Bot bio: Guild Scribe of the Adventurers' Guild. Maintaining accurate records for future generations.
+2026-06-11 12:32:37 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-11 12:32:37 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-11 12:32:37 [INFO    ] discord.client: logging in using static token
+2026-06-11 12:32:38 [INFO    ] bot.ai: Loading AI Cogs…
+2026-06-11 12:32:41 [INFO    ] bot.ai:   ✓ Failover chain: registered gemini/gemini-2.5-flash (API key 1)
+2026-06-11 12:32:41 [INFO    ] bot.ai:   ✓ Failover chain: registered gemini/gemini-2.5-flash (API key 2)
+2026-06-11 12:32:43 [INFO    ] bot.ai:   ✓ Failover chain: registered openrouter/meta-llama/llama-3.1-8b-instruct (API key 1)
+2026-06-11 12:32:43 [INFO    ] bot.ai:   ✓ Failover chain: registered openrouter/meta-llama/llama-3.1-8b-instruct (API key 2)
+2026-06-11 12:32:43 [INFO    ] bot.ai:   ✓ Failover chain: registered groq/llama-3.1-8b-instant (API key 1)
+2026-06-11 12:32:43 [INFO    ] bot.ai:   ✓ Failover chain: registered groq/llama-3.1-8b-instant (API key 2)
+2026-06-11 12:32:43 [INFO    ] bot.ai:   ✓  cogs.ai_cog
+2026-06-11 12:32:43 [INFO    ] bot.ai: Synced 7 slash command(s) [guild=1455178632669429929]
+2026-06-11 12:32:44 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 7f5ac3506631f80e2e0fd9f029d4fd34).
+2026-06-11 12:32:46 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 12:32:46 [INFO    ] bot.ai: AI Bot logged in as Elyra#5579 (ID: 972608960957906996)
+2026-06-11 12:32:46 [INFO    ] bot.ai: discord.py v2.7.1
+2026-06-11 12:32:46 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 12:32:46 [INFO    ] bot.ai: Bot bio: Guild Scribe of the Adventurers' Guild. Maintaining accurate records for future generations.
+2026-06-11 12:58:13 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 7f5ac3506631f80e2e0fd9f029d4fd34.
+2026-06-11 13:43:10 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 7f5ac3506631f80e2e0fd9f029d4fd34.
+2026-06-11 19:04:38 [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-06-11 19:04:38 [WARNING ] discord.client: davey is not installed, voice will NOT be supported
+2026-06-11 19:04:38 [INFO    ] discord.client: logging in using static token
+2026-06-11 19:04:39 [INFO    ] bot.ai: Loading AI Cogs…
+2026-06-11 19:04:43 [INFO    ] bot.ai:   ✓ Failover chain: registered gemini/gemini-2.5-flash (API key 1)
+2026-06-11 19:04:43 [INFO    ] bot.ai:   ✓ Failover chain: registered gemini/gemini-2.5-flash (API key 2)
+2026-06-11 19:04:46 [INFO    ] bot.ai:   ✓ Failover chain: registered openrouter/meta-llama/llama-3.1-8b-instruct (API key 1)
+2026-06-11 19:04:46 [INFO    ] bot.ai:   ✓ Failover chain: registered openrouter/meta-llama/llama-3.1-8b-instruct (API key 2)
+2026-06-11 19:04:46 [INFO    ] bot.ai:   ✓ Failover chain: registered groq/llama-3.1-8b-instant (API key 1)
+2026-06-11 19:04:46 [INFO    ] bot.ai:   ✓ Failover chain: registered groq/llama-3.1-8b-instant (API key 2)
+2026-06-11 19:04:46 [INFO    ] bot.ai:   ✓  cogs.ai_cog
+2026-06-11 19:04:46 [INFO    ] bot.ai: Synced 7 slash command(s) [guild=1455178632669429929]
+2026-06-11 19:04:47 [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: b5ba3b7b283de0fa7f78407df460b6ae).
+2026-06-11 19:04:49 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 19:04:49 [INFO    ] bot.ai: AI Bot logged in as Elyra#5579 (ID: 972608960957906996)
+2026-06-11 19:04:49 [INFO    ] bot.ai: discord.py v2.7.1
+2026-06-11 19:04:49 [INFO    ] bot.ai: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026-06-11 19:04:49 [INFO    ] bot.ai: Bot bio: Guild Scribe of the Adventurers' Guild. Maintaining accurate records for future generations.
+2026-06-11 21:18:32 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session b5ba3b7b283de0fa7f78407df460b6ae.
+2026-06-11 21:41:17 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session b5ba3b7b283de0fa7f78407df460b6ae.
+2026-06-11 22:38:39 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session b5ba3b7b283de0fa7f78407df460b6ae.
+2026-06-11 23:00:25 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session b5ba3b7b283de0fa7f78407df460b6ae.
+2026-06-11 23:28:04 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session b5ba3b7b283de0fa7f78407df460b6ae.
+2026-06-12 02:10:21 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session b5ba3b7b283de0fa7f78407df460b6ae.
+2026-06-12 04:59:28 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session b5ba3b7b283de0fa7f78407df460b6ae.
+2026-06-12 05:40:36 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session b5ba3b7b283de0fa7f78407df460b6ae.
+2026-06-12 07:19:07 [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session b5ba3b7b283de0fa7f78407df460b6ae.

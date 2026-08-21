@@ -1,0 +1,588 @@
+{
+  "knowledge_entries": [
+    {
+      "id": "enchanting_system",
+      "name": "Enchanting System",
+      "tags": [
+        "enchanting", "enchantment", "enchant", "xp", "experience", "lapis",
+        "enchantment table", "bookshelf", "anvil", "grindstone", "mending",
+        "silk touch", "fortune", "curse", "unbreaking", "looting", "knockback",
+        "fire aspect", "sweeping edge", "protection", "thorns"
+      ],
+      "facts": [
+        "An Enchantment Table requires 15 Bookshelves surrounding it (with one block gap on each side) to unlock maximum level 30 enchantments.",
+        "Enchanting costs Lapis Lazuli and Experience Levels; the displayed cost is the minimum level required, not the amount consumed.",
+        "Books can be enchanted on the Enchantment Table and combined on an Anvil to apply specific enchantments to gear.",
+        "A Grindstone removes all non-curse enchantments from an item and refunds some XP based on the enchantment level.",
+        "Curse of Binding prevents removal of armor from its slot except through death or breaking; Curse of Vanishing destroys the item on death — neither can be removed by a Grindstone.",
+        "Mending uses XP orbs collected while the item is in the active hand or off-hand slot to repair it; XP is used for repair before going to levels.",
+        "Silk Touch mines blocks in their original form (e.g. Stone instead of Cobblestone, Glass, Ores as blocks, Bookshelves); mutually exclusive with Fortune.",
+        "Fortune increases drop yield from mined blocks: Fortune III gives up to 4x Diamonds, 4x Emeralds, and increased Flint, Coal, and Lapis drops.",
+        "Unbreaking reduces the chance of a tool losing durability on each use; Unbreaking III effectively triples the tool's usable lifespan.",
+        "Protection enchantments (Protection, Fire Protection, Blast Protection, Projectile Protection) all reduce damage of their type; Protection is general-purpose while the others give higher reduction for their specific type.",
+        "Thorns reflects a portion of melee damage back to attackers but increases armor durability consumption.",
+        "Sweeping Edge increases the damage dealt by the sword's sweeping attack to nearby mobs; it is exclusive to swords.",
+        "Power increases bow arrow damage; Punch increases knockback; Flame ignites arrows; Infinity prevents arrow consumption (but not tipped arrows).",
+        "Lunge is a new enchantment added in 1.21.11 (Mounts of Mayhem) exclusive to the Spear's jab attack; it propels the player horizontally in the direction they are looking, at the cost of hunger points.",
+        "The Anvil uses XP levels to combine and repair enchantments; each use adds a 'Prior Work Penalty' that doubles with every use, eventually making further repairs 'Too Expensive'.",
+        "Enchantments on gear can be viewed by hovering over them in the inventory; enchanted items display a glowing purple effect."
+      ]
+    },
+    {
+      "id": "nether_guide",
+      "name": "The Nether",
+      "tags": [
+        "nether", "portal", "obsidian", "nether fortress", "bastion",
+        "blaze", "wither skeleton", "piglin", "hoglin", "strider",
+        "nether biomes", "soul sand", "nether wart", "ghast", "magma cube",
+        "zombified piglin", "crimson forest", "warped forest", "soul sand valley",
+        "basalt deltas"
+      ],
+      "facts": [
+        "A Nether Portal is built from a minimum 4x5 frame of Obsidian (inner space of 2x3 blocks) and lit with Flint and Steel or a Fire Charge.",
+        "One block of travel in the Nether equals eight blocks in the Overworld, making it extremely efficient for long-distance travel.",
+        "Nether Fortresses contain Blaze Spawners, Nether Wart growing on Soul Sand, and Wither Skeleton spawns; they are required for potion-making progression.",
+        "Blazes drop Blaze Rods when killed by a player; Blaze Rods are crafted into Blaze Powder, required for Brewing Stands and Eyes of Ender.",
+        "Wither Skeletons spawn in Nether Fortresses and have a rare chance to drop their Skull, which is needed to summon the Wither (3 Skulls required).",
+        "Bastion Remnants are piglin-occupied fortresses containing large amounts of gold loot, Pigstep Music Disc, and Netherite Upgrade Smithing Templates.",
+        "Piglins are neutral if the player wears at least one piece of Gold Armor; they attack otherwise. They can be bartered with by throwing or placing Gold Ingots near them.",
+        "Striders walk on lava and can be ridden with a Saddle; they are steered using a Warped Fungus on a Stick (analogous to a Carrot on a Stick for pigs).",
+        "Fire Resistance potions are essential for the Nether — they negate all damage from lava, fire, Blaze fireballs, and Ghast fireballs.",
+        "Ghasts are large flying mobs that fire explosive fireballs; their fireballs can be deflected back by hitting them with any projectile or even a fist while they're in the air.",
+        "Magma Cubes are like Slimes in the Nether — they split into smaller cubes when killed and deal fire damage on contact.",
+        "Zombified Piglins are neutral undead variants of Piglins; attacking one aggros the entire nearby group, making them very dangerous in numbers.",
+        "Hoglins are hostile pig-like mobs found in Crimson Forests; they deal knockback and are repelled by Warped Fungi.",
+        "The five Nether biomes are: Nether Wastes (default, red/brown), Crimson Forest (red mushroom trees, Hoglins, Piglins), Warped Forest (blue mushroom trees, safe for players), Soul Sand Valley (soul fire, skeleton/ghast spawns), and Basalt Deltas (basalt columns, Magma Cubes).",
+        "Soul Sand slows movement and is required to brew the Wither potion; Soul Soil does not slow movement but also supports Soul Fire.",
+        "Crying Obsidian can be used to craft a Respawn Anchor, which lets players set their respawn point in the Nether using Glowstone charges.",
+        "Ancient Debris — the precursor to Netherite — is blast-resistant, immune to lava/fire, and found most commonly at Y=15 in the Nether."
+      ]
+    },
+    {
+      "id": "end_and_ender_dragon",
+      "name": "The End and Ender Dragon",
+      "tags": [
+        "end", "ender dragon", "end portal", "stronghold", "eyes of ender",
+        "end city", "elytra", "shulker", "chorus fruit", "dragon egg",
+        "end crystal", "end gateway", "outer islands", "xp", "respawn dragon"
+      ],
+      "facts": [
+        "The End is accessed through an End Portal found inside a Stronghold; the portal has 12 frames that must be filled with Eyes of Ender to activate it.",
+        "Eyes of Ender are crafted from Blaze Powder and Ender Pearls; throwing one in the Overworld makes it fly toward the nearest Stronghold.",
+        "End Crystals atop obsidian pillars regenerate the Ender Dragon's health as long as the dragon is within range; all crystals must be destroyed before the dragon can be defeated.",
+        "Defeating the Ender Dragon for the first time awards 12,000 XP (enough to go from level 0 to 68); subsequent defeats award 500 XP.",
+        "On its first defeat, the dragon drops 1 Dragon Egg on top of the Exit Portal as a trophy — the egg does not drop again on subsequent kills.",
+        "The Ender Dragon does NOT respawn on its own; to manually respawn it, place 4 End Crystals on the four cardinal sides of the bedrock Exit Portal.",
+        "Respawning the dragon recreates the obsidian pillars and End Crystals and resets the fight, but does NOT remove the End Gateway portals already generated.",
+        "Defeating the Ender Dragon opens End Gateway portals scattered around the outer edge of the main End island; throwing an Ender Pearl into one teleports you to the outer islands.",
+        "End Cities spawn on the outer End islands and contain End Ships; End Ships house an Elytra in an Item Frame and a Brewing Stand with potions.",
+        "Elytra enables gliding flight and can be powered with Firework Rockets for sustained flight; it can be repaired with Phantom Membranes.",
+        "Shulkers are box-shaped mobs that hide in their shells; their projectiles inflict the Levitation status effect, causing the player to float upward.",
+        "Shulker Shells (dropped by Shulkers) are used to craft Shulker Boxes, which retain their inventory when broken and can be placed inside each other.",
+        "Chorus Fruit teleports the player to a random adjacent solid block when eaten; it can teleport through walls and even remove the Elytra-flying state.",
+        "The End has void below it; falling into the void is instant death with no recovery unless a Totem of Undying is held."
+      ]
+    },
+    {
+      "id": "survival_early_game",
+      "name": "Early Game Survival Progression",
+      "tags": [
+        "survival", "start", "beginner", "early game", "wood", "stone",
+        "iron", "shelter", "food", "crafting table", "first night", "coal",
+        "bed", "tools", "progression"
+      ],
+      "facts": [
+        "On a new world, the first priority is collecting Wood by punching trees, then crafting a Crafting Table from 4 Wood Planks.",
+        "A Crafting Table enables 3x3 recipes; craft a Wooden Pickaxe first to mine Stone, then a Stone Pickaxe to mine Iron Ore.",
+        "Build a shelter before the first night — even a simple dirt or wood box prevents hostile mob spawns from reaching you.",
+        "Coal is found near the surface (Y=0 to Y=96) and is essential for making Torches; Charcoal can be smelted from Wood as an alternative.",
+        "Sheep drop Wool which, combined with 3 Wood Planks, crafts a Bed; sleeping in a Bed at night skips to daytime and sets your spawn point.",
+        "Iron Ore must be smelted in a Furnace to produce Iron Ingots; Iron tools and armor are significantly better than Stone and should be obtained early.",
+        "A full set of Iron Armor reduces incoming damage substantially and should be a top early priority; it requires 24 Iron Ingots total.",
+        "Eating food restores the Hunger bar; a Hunger bar of at least 9 (out of 10) is required for natural health regeneration.",
+        "Diamond Ore generates most commonly at Y=-58 in the current ore distribution; you need an Iron Pickaxe or better to mine it.",
+        "Enchanting should begin once you have a stable food supply, 15 Bookshelves, and enough Lapis Lazuli for a full Level 30 enchantment.",
+        "A Shield (1 Iron Ingot + 6 Wood Planks) can be crafted relatively early and is highly effective at blocking melee and ranged attacks.",
+        "The priority gear upgrade path is: Stone → Iron → Diamond → Netherite for both tools and armor."
+      ]
+    },
+    {
+      "id": "brewing_system",
+      "name": "Brewing and Potions",
+      "tags": [
+        "brewing", "potion", "blaze powder", "nether wart", "brewing stand",
+        "awkward potion", "fire resistance", "strength", "healing", "invisibility",
+        "splash potion", "lingering potion", "dragon's breath", "redstone", "glowstone",
+        "night vision", "swiftness", "slowness", "regeneration", "water breathing"
+      ],
+      "facts": [
+        "A Brewing Stand is crafted from 1 Blaze Rod and 3 Cobblestone; it requires Blaze Powder as fuel (each charge brews 20 batches).",
+        "Most useful potions require an Awkward Potion as a base, which is brewed from 1 Nether Wart added to a Water Bottle.",
+        "Fire Resistance Potion: Awkward Potion + Magma Cream. Negates all fire and lava damage — essential for Nether trips.",
+        "Healing Potion: Awkward Potion + Glistering Melon Slice. Instantly restores 4 HP (2 hearts); Healing II restores 8 HP.",
+        "Strength Potion: Awkward Potion + Blaze Powder. Increases melee damage by 3 (Strength I) or 6 (Strength II) per hit.",
+        "Night Vision Potion: Awkward Potion + Golden Carrot. Allows you to see in the dark as if in full daylight.",
+        "Swiftness Potion: Awkward Potion + Sugar. Increases movement speed by 20% (Swiftness I) or 40% (Swiftness II).",
+        "Invisibility Potion: Fermented Spider Eye added to a Night Vision Potion. Makes the player invisible to mobs unless the player wears armor.",
+        "Water Breathing Potion: Awkward Potion + Pufferfish. Prevents oxygen depletion underwater.",
+        "Regeneration Potion: Awkward Potion + Ghast Tear. Regenerates health over time.",
+        "Slow Falling Potion: Awkward Potion + Phantom Membrane. Causes the player to descend slowly and take no fall damage.",
+        "Gunpowder converts any standard potion into a Splash Potion (throwable, affects entities in an area).",
+        "Dragon's Breath (collected by right-clicking the Ender Dragon's breath clouds with an Empty Bottle) converts a Splash Potion into a Lingering Potion that leaves a lasting cloud.",
+        "Adding Redstone Dust to a potion extends its duration; adding Glowstone Dust increases its potency (level II) — both cannot be applied to the same potion.",
+        "Fermented Spider Eye negates or inverts the effect of a potion (e.g., turns Healing into Harming, Swiftness into Slowness).",
+        "Weakness Potion: Fermented Spider Eye + Water Bottle (does not need an Awkward base). Used with a Golden Apple to cure Zombie Villagers."
+      ]
+    },
+    {
+      "id": "redstone_basics",
+      "name": "Redstone Basics",
+      "tags": [
+        "redstone", "circuit", "lever", "button", "repeater", "comparator",
+        "piston", "dispenser", "dropper", "hopper", "observer", "detector rail",
+        "note block", "daylight sensor", "target block", "redstone torch",
+        "clock", "latch", "monostable"
+      ],
+      "facts": [
+        "Redstone Dust transmits a power signal up to 15 blocks before it loses strength; a Redstone Repeater restores it to full strength.",
+        "A Redstone Repeater can introduce a delay of 1 to 4 ticks per repeater; multiple repeaters can be chained to create longer delays.",
+        "A Redstone Comparator reads the contents of a container (output strength 0-15 based on fullness) or compares two signals; it can also subtract signal strength.",
+        "Pistons push a line of up to 12 blocks when activated; Sticky Pistons pull the block directly in front of them back when deactivated.",
+        "Observers detect any block state change in the block directly in front of them and emit a 1-tick pulse on the back when triggered.",
+        "Hoppers transfer items at a rate of 1 item per 8 game ticks (4 items/second); they pull from containers above and push into containers below or to the side.",
+        "Dispensers fire projectiles (arrows, fireballs), activate usable items (buckets, Flint and Steel, armor), or dispense items when given a Redstone signal.",
+        "Droppers simply drop the item as a physical entity into the world or into an adjacent container when activated.",
+        "A Redstone Torch is always ON unless the block it's attached to receives a Redstone signal, at which point it turns OFF.",
+        "A Daylight Sensor emits a Redstone signal proportional to sky light level (daytime = strong signal); right-clicking it inverts behavior to detect nighttime.",
+        "A Target Block emits a brief Redstone pulse when hit by a projectile; the strength depends on how close the projectile hit to the center.",
+        "Note Blocks play a musical note when powered; placing different blocks beneath them changes the instrument (e.g., Gold = Bell, Sand = Didgeridoo, Soul Sand = Bass).",
+        "A 2-clock can be made with 2 Redstone Repeaters set to minimum delay forming a loop; faster clocks require Redstone Torches or Observers.",
+        "An RS-NOR Latch (2 Redstone NOR gates looped together) creates a memory circuit that holds a state (set/reset) until changed."
+      ]
+    },
+    {
+      "id": "mob_guide",
+      "name": "Mobs and Hostile Creatures",
+      "tags": [
+        "mob", "zombie", "skeleton", "creeper", "enderman", "spider", "witch",
+        "slime", "phantom", "pillager", "evoker", "vindicator", "warden",
+        "iron golem", "drowned", "blaze", "guardian", "elder guardian",
+        "cave spider", "silverfish", "bogged", "breeze"
+      ],
+      "facts": [
+        "Creepers explode 3 seconds after coming within 3 blocks of a player; they are silent until the hissing begins — back away immediately. Charged Creepers (struck by lightning) deal double explosion damage.",
+        "Skeletons fire arrows and try to maintain distance; a raised Shield blocks their arrows. They burn in sunlight unless in shade or water.",
+        "Endermen are neutral unless the player looks directly at their face (a direct eye-contact check); wearing a Pumpkin on your head prevents them from aggroing.",
+        "Phantoms spawn when a player has not slept for 3 or more in-game nights; they dive-bomb from above and deal moderate damage. They burn in sunlight.",
+        "Witches throw Splash Potions of Slowness, Weakness, Poison, and Harming at players, and drink potions defensively. They are highly resistant to most potion effects.",
+        "Slimes spawn in Slime Chunks below Y=40 and in Swamp Biomes on full-moon nights; they split into smaller Slimes when killed.",
+        "Iron Golems spawn naturally in villages to protect villagers and can be crafted using 4 Iron Blocks and a Carved Pumpkin in a T-shape.",
+        "The Warden is a powerful boss mob summoned by Sculk Shriekers in the Deep Dark; it has 500 HP and deals up to 30 damage per hit, making it the strongest mob in the game.",
+        "Pillagers patrol in small groups near villages and fire Crossbows; a Bad Omen effect (obtained by killing a Pillager Captain) triggers a village Raid if the player enters a village.",
+        "Evokers summon Fangs in a line or circle pattern and spawn Vexes; they drop a Totem of Undying on death, making them high-priority targets.",
+        "Vindicators wield Iron Axes and deal very high melee damage; Johnny (named Vindicators) will attack any mob.",
+        "Drowned spawn underwater and on land during rain; they rarely hold Tridents and Nautilus Shells, both rare drops.",
+        "Guardians and Elder Guardians spawn in Ocean Monuments; Elder Guardians inflict Mining Fatigue III on nearby players, significantly slowing mining speed.",
+        "Cave Spiders are smaller than regular Spiders, can fit through 1x1 gaps, and inflict Poison on Normal/Hard difficulty.",
+        "Silverfish spawn from Infested Blocks found in Strongholds and certain mountain biomes; breaking an Infested Block summons nearby Silverfish.",
+        "The Bogged is a swamp-dwelling Skeleton variant introduced in 1.21 that shoots Arrows of Slowness and has a slower fire rate.",
+        "The Breeze is a Trial Chamber mob introduced in 1.21 that shoots Wind Charges which knock back entities and activate buttons/levers/bells; it cannot be damaged by projectiles.",
+        "The Parched is a desert Skeleton variant introduced in 1.21.11 that shoots Arrows of Weakness, does not burn in sunlight, and spawns with Camel Husks in deserts."
+      ]
+    },
+    {
+      "id": "essential_crafting_recipes",
+      "name": "Essential Crafting Recipes",
+      "tags": [
+        "crafting", "recipes", "tools", "armor", "shield", "bucket", "chest",
+        "furnace", "utility", "torch", "pickaxe", "sword", "axe", "shovel",
+        "hoe", "bow", "crossbow", "compass", "clock", "spyglass"
+      ],
+      "facts": [
+        "Crafting Table: 4 Wood Planks in a 2x2 grid. Required for all 3x3 recipes.",
+        "Furnace: 8 Cobblestone, Cobbled Deepslate, or Blackstone arranged in a hollow 3x3 ring (empty center). Used for smelting.",
+        "Chest: 8 Wood Planks in a hollow 3x3 ring. Single Chest = 27 slots; two adjacent Chests form a Double Chest with 54 slots.",
+        "Torches: 1 Coal/Charcoal above 1 Stick in a vertical pair = 4 Torches. Soul Torches use Soul Sand/Soil instead and produce blue light.",
+        "Shield: 6 Wood Planks + 1 Iron Ingot in a 'Y' pattern (Iron Ingot at top-center, Planks fill the remaining slots). Blocks all frontal attacks.",
+        "Bucket: 3 Iron Ingots in a 'V' shape. Carries Water, Lava, Milk, Powder Snow, and most aquatic mobs.",
+        "Pickaxe: 3 material (Planks/Stone/Iron/Gold/Diamond/Netherite) across the top row, 2 Sticks down the center column. Used to mine stone and ores.",
+        "Sword: 2 material stacked vertically in the center + 1 Stick below them. Best DPS weapon for most combat situations.",
+        "Bow: 3 Sticks in a curved pattern (top-right, center-right, bottom-right) + 3 Strings filling the gaps to the left.",
+        "Crossbow: 3 Sticks across the top, 1 Iron Ingot in center, 1 String in center-left, 1 Tripwire Hook in center-right, 2 Sticks below the hook and ingot.",
+        "Compass: 4 Iron Ingots in a plus shape around 1 Redstone Dust in the center. Points to the world spawn or a Lodestone if linked.",
+        "Clock: 4 Gold Ingots in a plus shape around 1 Redstone Dust. Displays approximate time of day.",
+        "Spyglass: 1 Amethyst Shard on top, 2 Copper Ingots below it in a vertical line. Zooms view like a telescope.",
+        "Spear (1.21.11): Crafted in a diagonal pattern — same recipe shape as a Shovel but using 1 material (top-right), 1 Stick (center), 1 Stick (bottom-left). Available in Wood, Stone, Copper, Iron, Gold, Diamond, and Netherite.",
+        "Brewing Stand: 1 Blaze Rod in center-top, 3 Cobblestone across the bottom row.",
+        "Enchantment Table: 1 Book on top-center, 2 Diamonds in the middle row (left and right), 4 Obsidian across the bottom row.",
+        "Anvil: 3 Iron Blocks across the top, 1 Iron Ingot in the center, 3 Iron Ingots across the bottom (7 Ingots total + 3 Iron Blocks = 31 Iron Ingots).",
+        "Smithing Table: 2 Iron Ingots in the top-left and top-right, 4 Wood Planks filling the bottom two rows. Required for Netherite upgrades."
+      ]
+    },
+    {
+      "id": "villagers_and_trading",
+      "name": "Villagers and Trading",
+      "tags": [
+        "villager", "trading", "emerald", "profession", "nitwit", "iron golem",
+        "raid", "hero of the village", "zombie villager", "cure", "breeding",
+        "workstation", "librarian", "fletcher", "armorer", "cleric",
+        "toolsmith", "weaponsmith", "farmer", "wandering trader", "discount"
+      ],
+      "facts": [
+        "Villagers gain professions by claiming an unclaimed Workstation nearby; breaking the workstation removes the profession and resets trades.",
+        "Workstations determine professions: Composter = Farmer, Blast Furnace = Armorer, Brewing Stand = Cleric, Lectern = Librarian, Fletching Table = Fletcher, Smithing Table = Toolsmith, Grindstone = Weaponsmith, Cauldron = Leatherworker, Cartography Table = Cartographer, Loom = Shepherd, Barrel = Fisherman, Stonecutter = Mason.",
+        "Trades use Emeralds as currency; villager trade offers refresh twice per day after the villager visits their Workstation.",
+        "Each trade has a limited number of uses per session; once maxed out, it locks until the villager restocks at their Workstation.",
+        "Villagers level up from Novice to Apprentice, Journeyman, Expert, and Master by trading with the player, unlocking better trade offers.",
+        "Zombie Villagers can be cured by first applying a Splash Potion of Weakness, then feeding them a Golden Apple; the cure takes 2-5 minutes.",
+        "Curing a Zombie Villager grants a permanent significant trade discount on all their trades — stacking cures on the same villager further reduces prices.",
+        "Hero of the Village (granted by completing a Raid) reduces all active villager prices and causes villagers to occasionally toss the player gifts.",
+        "Librarians sell Enchanted Books including Mending; rerolling their lectern (breaking and replacing it) until the desired enchantment appears is a key strategy.",
+        "Fletcher Villagers accept Sticks for Emeralds at Novice level — one of the easiest early-game Emerald farms.",
+        "Farmer Villagers buy crops (Wheat, Carrots, Potatoes, Beetroot) for Emeralds and sell high-saturation food; highly useful for automating food and emerald income.",
+        "Villagers breed when they have enough food (3 Bread, 12 Carrots, 12 Potatoes, or 12 Beetroots per parent), enough unclaimed beds nearby, and have not bred recently.",
+        "A village is defined by at least 1 claimed Bed and 1 Villager; Iron Golems spawn naturally once there are enough Villagers gossiping, based on population.",
+        "Wandering Traders appear randomly with 2 Trader Llamas, offer unique trades (rare plants, materials), and despawn after 2-3 in-game days; their trades cannot be restocked."
+      ]
+    },
+    {
+      "id": "trial_chambers_and_mace",
+      "name": "Trial Chambers, Mace, and Crafter",
+      "tags": [
+        "trial chambers", "mace", "heavy core", "breeze", "breeze rod",
+        "vault", "trial spawner", "ominous trial", "crafter", "copper",
+        "tuff", "wind charge", "bad omen", "ominous bottle", "ominous key"
+      ],
+      "facts": [
+        "Trial Chambers are large underground structures built from Copper and Tuff blocks, introduced in Java Edition 1.21 (Tricky Trials).",
+        "Trial Spawners adjust their mob count and difficulty based on how many players are nearby, making them scale with group size.",
+        "Completing a Trial Spawner rewards Trial Keys that are used to open Vault blocks; each player can open each Vault only once per world.",
+        "Drinking an Ominous Bottle activates the Bad Omen effect, which transforms nearby Trial Spawners into Ominous Trial Spawners for harder challenges.",
+        "Ominous Trial Spawners summon armored mobs that throw status-effect potions; they reward Ominous Trial Keys upon completion.",
+        "Ominous Vaults require Ominous Trial Keys and contain the rarest Trial Chamber loot, including Heavy Cores.",
+        "The Breeze is a wind-based hostile mob exclusive to Trial Chambers; it attacks using Wind Charges and can activate buttons, levers, and bells. It is immune to projectiles.",
+        "The Mace is a powerful melee weapon crafted from 1 Heavy Core (top) and 1 Breeze Rod (below it); it deals increasing smash damage the farther you fall before hitting a target.",
+        "A successful Mace smash attack completely cancels all accumulated fall damage for the attacker at the moment of impact.",
+        "Heavy Cores are extremely rare and can only be obtained from Ominous Vaults inside Trial Chambers.",
+        "Wind Charges (dropped by Breezes) can be thrown to create small explosions that push entities and activate buttons/levers; they deal no block damage.",
+        "The Crafter is a new Redstone-powered block (added in 1.21) that auto-crafts items when given a Redstone pulse, using items stored in its 3x3 internal grid.",
+        "In the Crafter, individual slots can be 'disabled' by clicking them, allowing partial recipes and control over what is crafted."
+      ]
+    },
+    {
+      "id": "beacon_mechanics",
+      "name": "Beacon System and Pyramids",
+      "tags": [
+        "beacon", "pyramid", "buff", "haste", "wither star", "nether star",
+        "mineral blocks", "insta-mine", "speed", "resistance", "jump boost",
+        "strength", "regeneration", "beacon range"
+      ],
+      "facts": [
+        "A Beacon is crafted from 1 Nether Star (dropped by the Wither), 3 Obsidian, and 5 Glass blocks.",
+        "To activate, a Beacon must sit on a pyramid of mineral blocks (Iron, Gold, Diamond, Emerald, or Netherite); mixed block types are allowed.",
+        "Pyramid tiers and effects: Tier 1 (3x3 base, 9 blocks): Speed or Haste. Tier 2 (5x5 + 3x3, 34 blocks): adds Resistance or Jump Boost. Tier 3 (7x7 + 5x5 + 3x3, 83 blocks): adds Strength. Tier 4 (9x9 + 7x7 + 5x5 + 3x3, 164 blocks): enables secondary effect (Regeneration) or upgrades primary to level II.",
+        "A full Tier 4 Beacon lets the player select one primary effect at Level II (e.g., Haste II) and a secondary effect of Regeneration.",
+        "Haste II from a Beacon combined with an Efficiency V Diamond or Netherite Pickaxe enables 'insta-mining' standard stone blocks.",
+        "The Beacon beam requires an unobstructed view of the sky; stained glass placed above it changes the beam's color without blocking the effect.",
+        "Beacon buffs apply within a cylindrical radius: Tier 1 = 20 blocks, Tier 2 = 30, Tier 3 = 40, Tier 4 = 50 blocks; the buff extends from bedrock to sky.",
+        "Players must feed the Beacon an Iron Ingot, Gold Ingot, Diamond, Emerald, or Netherite Ingot to select or change the active effect.",
+        "Beacon effects last 9 seconds after leaving the radius (with a brief grace period extension) before expiring."
+      ]
+    },
+    {
+      "id": "farming_and_food",
+      "name": "Farming and Food",
+      "tags": [
+        "farming", "crop", "wheat", "carrot", "potato", "beetroot", "bonemeal",
+        "hoe", "harvest", "animal", "breeding", "food", "hunger", "saturation",
+        "composter", "sugarcane", "melon", "pumpkin", "cocoa", "nether wart",
+        "sweet berries", "glow berries", "mushroom", "cake", "bread"
+      ],
+      "facts": [
+        "Crops (Wheat, Carrots, Potatoes, Beetroots) require tilled Farmland; Farmland is created by right-clicking Dirt or Grass with a Hoe.",
+        "Farmland within 4 horizontal blocks of a water source becomes hydrated (darker brown color) and grows crops significantly faster than dry farmland.",
+        "Crops grow via random ticks; growth speed is increased by light, hydration, and nearby crops of the same type not immediately adjacent (farmland bonus).",
+        "Bonemeal can be applied directly to crops to instantly advance their growth by one stage; multiple applications are usually required to fully grow a crop.",
+        "Wheat Seeds come from breaking tall grass; Carrot, Potato, and Beetroot are found in Village farms, shipwreck supply chests, and dungeon loot.",
+        "Food values: Cooked Steak (8 hunger, 12.8 saturation), Cooked Porkchop (8 hunger, 12.8 saturation), Golden Carrot (6 hunger, 14.4 saturation — highest saturation in game), Bread (5 hunger, 6 saturation).",
+        "Animal Breeding: feed two of the same passive animal their preferred food to trigger breeding (5-minute cooldown per parent): Cow/Mooshroom/Sheep = Wheat, Pig = Carrot/Potato/Beetroot, Chicken = any Seeds, Rabbit = Dandelion/Golden Carrot/Carrot.",
+        "Cows drop Raw Beef and Leather; Sheep drop Raw Mutton and Wool (shearing with Shears produces 1-3 Wool without killing the sheep).",
+        "A Composter converts plant-based items (crops, flowers, saplings, etc.) into Bone Meal over 7 fill stages; different items have varying composting success chances.",
+        "Sugarcane grows 1 block per 18 random ticks adjacent to Water and is used to craft Paper (for Maps and Books) and Sugar.",
+        "Melons and Pumpkins grow from stems on hydrated farmland; the fruit spawns on an adjacent grass, dirt, or farmland block next to the mature stem.",
+        "Nether Wart grows on Soul Sand in the Nether (or anywhere in a Nether Fortress area); it does not require water or light and has 4 growth stages.",
+        "Suspicious Stew can be crafted with a Mushroom, Bowl, Flower, and Wheat to create a soup with a hidden status effect based on the flower used.",
+        "Cake requires 3 Milk Buckets, 2 Sugar, 1 Egg, and 3 Wheat; it is placed as a block and can be eaten in 7 bites, each restoring 2 hunger.",
+        "Glow Berries grow in Lush Caves on Cave Vines hanging from the ceiling; they emit light (level 14) and restore 2 hunger when eaten."
+      ]
+    },
+    {
+      "id": "netherite_progression",
+      "name": "Netherite Upgrade Progression",
+      "tags": [
+        "netherite", "upgrade", "smithing", "diamond", "ancient debris",
+        "ingot", "armor", "tool", "weapon", "netherite scrap", "smithing template",
+        "bastion", "lava immune", "blast resistant"
+      ],
+      "facts": [
+        "Ancient Debris spawns in the Nether and is most concentrated at Y=15; it is blast-resistant and completely immune to fire and lava.",
+        "Ancient Debris must be mined with at least a Diamond Pickaxe; it is typically found in veins of 1-3 and never exposed to air naturally.",
+        "Smelting Ancient Debris in a Furnace or Blast Furnace produces Netherite Scrap; combining 4 Netherite Scrap + 4 Gold Ingots in a crafting grid yields 1 Netherite Ingot.",
+        "To upgrade Diamond gear to Netherite, use a Smithing Table with a Netherite Upgrade Smithing Template + the Diamond item + 1 Netherite Ingot.",
+        "Netherite Upgrade Smithing Templates are found in Bastion Remnant chests; they can be duplicated using 7 Netherrack + 1 Diamond + the template.",
+        "Netherite gear retains all enchantments from its Diamond base when upgraded via the Smithing Table.",
+        "Netherite armor and tools have higher durability, faster mining/attack speed, and more enchantability than Diamond.",
+        "Netherite items float in lava and do not burn, making them recoverable if dropped in lava.",
+        "Netherite Horse Armor (added in 1.21.11) can be obtained by upgrading Diamond Horse Armor using a Smithing Table and a Netherite Upgrade template."
+      ]
+    },
+    {
+      "id": "cave_and_mining",
+      "name": "Cave Exploration and Mining",
+      "tags": [
+        "cave", "mining", "diamond", "ore", "deepslate", "lava", "deep dark",
+        "sculk", "copper", "lapis", "gold", "redstone", "dripstone",
+        "lush caves", "mineshaft", "ancient city", "iron", "emerald"
+      ],
+      "facts": [
+        "Below Y=0, stone transitions to Deepslate; Deepslate ore variants take roughly 1.5x longer to mine but drop the same materials as their stone counterparts.",
+        "Diamond Ore is most common at Y=-58 to Y=-59 and requires at least an Iron Pickaxe to mine; strip-mining at Y=-57 (one block above bedrock layer range) is highly effective.",
+        "Iron Ore generates in two peaks: common near the surface (Y=15-56) and in large blobs deep underground (Y=-24 and below); it is smelted into Iron Ingots.",
+        "Gold Ore generates most between Y=-16 and Y=32 in the Overworld; in the Nether, Gold Ore generates between Y=10 and Y=117 and can be mined with Fortune for extra nuggets.",
+        "Lapis Lazuli Ore has its peak at Y=0 and is required for Enchanting; Silk Touch is not needed since Lapis drops directly.",
+        "Redstone Ore peaks at Y=-59 and drops 4-5 Redstone Dust (more with Fortune); it also glows when touched.",
+        "Copper Ore peaks at Y=48 and is used to craft Spyglasses, Lightning Rods, and decorative Copper blocks; Copper oxidizes over time but can be waxed with Honeycomb.",
+        "Emerald Ore only generates in Mountain biomes and peaks at Y=236 near high mountain peaks; it is the rarest ore in the Overworld.",
+        "Lava pools generate frequently below Y=10 and in large caverns; always carry a Water Bucket to convert lava to Obsidian or Cobblestone and create a barrier.",
+        "The Deep Dark biome generates below Y=-51 and contains Sculk blocks, Ancient Cities, and the Warden.",
+        "Ancient Cities are enormous Deep Dark structures containing chests with Enchanted Books, Swift Sneak Leggings (unique enchantment), Echo Shards, and Disc Fragments.",
+        "Sculk Sensors detect vibrations (footsteps, block placement, projectiles) within 8 blocks and emit a Redstone signal; sneaking completely suppresses vibration detection.",
+        "Sculk Shriekers produce warning wails when activated; if a player triggers them 4 times while darkness is active, the Warden is summoned.",
+        "Dripstone Caves contain stalactites and stalagmites of Pointed Dripstone; stalactites drip water or lava into Cauldrons below and deal fall damage when they collapse.",
+        "Lush Caves (located below Azalea trees on the surface) contain Glow Berries, Spore Blossoms, Moss blocks, and Axolotls in underground water pools.",
+        "Mineshafts generate underground and contain rail tracks, Minecart Chests with loot, and Cave Spider Spawners surrounded by Cobwebs."
+      ]
+    },
+    {
+      "id": "wither_boss",
+      "name": "The Wither Boss",
+      "tags": [
+        "wither", "boss", "wither skeleton", "skull", "nether star",
+        "beacon", "summon", "wither rose", "bedrock", "blue skull",
+        "wither effect", "soul sand", "soul soil"
+      ],
+      "facts": [
+        "The Wither is summoned by placing 4 blocks of Soul Sand or Soul Soil in a T-shape (one on top, three in a row) and placing 3 Wither Skeleton Skulls on the top 3 spots.",
+        "The Wither cannot be summoned in the End dimension; it is typically spawned in the Nether or a contained area in the Overworld.",
+        "On summoning, the Wither creates a large explosion; always build a containment structure and trigger it from a distance.",
+        "The Wither has 300 HP (150 hearts) on Normal and 600 HP on Hard; it can pass through all blocks except Bedrock and End Portal Frames.",
+        "The Wither shoots black Wither Skulls that inflict the Wither effect (deals 1 damage per second, can kill), and a charged blue Wither Skull that destroys blocks.",
+        "When the Wither drops below 50% HP, it gains a shield that blocks ranged attacks; melee or Smite-enchanted weapons are required to deal damage.",
+        "Defeating the Wither drops a Nether Star, the required ingredient to craft a Beacon.",
+        "Wither Roses are dropped by any mob killed by the Wither; they inflict the Wither effect on any entity that touches them.",
+        "Beheading enchantment (from an Ominous Vault) causes mobs to drop their head when killed; otherwise skulls are only obtained rarely.",
+        "A Wither can be trapped in Bedrock or a Bedrock-ceiling area to be unable to flee, making the fight easier; this technique is valid in vanilla survival."
+      ]
+    },
+    {
+      "id": "combat_and_armor",
+      "name": "Combat and Armor",
+      "tags": [
+        "combat", "armor", "weapon", "sword", "axe", "bow", "crossbow",
+        "shield", "damage", "protection", "critical hit", "sweeping edge",
+        "spear", "mace", "trident", "knockback", "parry", "toughness"
+      ],
+      "facts": [
+        "Swords have higher DPS than axes due to their faster attack speed and can use Sweeping Edge to hit multiple mobs; axes deal more single-hit damage and can disable shields for 5 seconds.",
+        "A raised Shield (right-click and hold) blocks all frontal melee and projectile damage; axes and Evoker Fangs can bypass or disable shields.",
+        "Critical hits are triggered by attacking while falling (not sprinting or on the ground); they deal 150% base damage and display star particles.",
+        "Bows must be fully charged (hold right-click until the bow shakes) for maximum 9 damage output; Charge arrows arc over distance.",
+        "Crossbows can be pre-loaded and held ready to fire instantly; they can load Firework Rockets for area damage. The Multishot enchantment fires 3 arrows at once.",
+        "Armor's total reduction: Leather = 7 points, Gold = 11, Chain = 12, Iron = 15, Diamond = 20, Netherite = 20 (plus Toughness). Each armor point reduces damage by ~4%.",
+        "Armor Toughness (Diamond = 8 total, Netherite = 12 total across a full set) reduces the percentage of damage that bypasses armor from powerful hits.",
+        "The Trident can be thrown for a ranged attack and recalled with Loyalty; Riptide propels the player forward in rain or water when thrown; Channeling summons lightning during thunderstorms.",
+        "The Mace deals escalating fall-damage bonus strikes: each block of fall before hitting adds extra damage; a large fall can one-shot most mobs.",
+        "The Spear (added in 1.21.11) has two attacks: a quick Jab (low damage, knockback, multi-hit) and a Charge attack (high damage scales with player/target speed, can dismount riders); it has a longer reach than any other melee weapon but requires minimum distance.",
+        "Totem of Undying (held in either hand) prevents death once: the player is saved at 1 HP, gains Absorption II, Regeneration II, and Fire Resistance II for a few seconds.",
+        "Fire Aspect sets a target on fire; Flame does the same for bows. Looting III significantly increases rare drops (e.g., Wither Skeleton Skull chances increase from ~2.5% to ~5.5%).",
+        "Smite (up to V) and Bane of Arthropods (up to V) are enchantments that deal bonus damage against Undead and Arthropod mobs respectively; they are mutually exclusive with Sharpness.",
+        "Aqua Affinity helmet enchantment removes the mining speed penalty underwater; Depth Strider boots increase movement speed while submerged."
+      ]
+    },
+    {
+      "id": "storage_and_transportation",
+      "name": "Storage and Transportation",
+      "tags": [
+        "chest", "ender chest", "shulker box", "minecart", "boat", "horse",
+        "donkey", "mule", "llama", "rail", "furnace minecart", "hopper minecart",
+        "elytra", "camel", "nautilus", "strider", "item sorter", "storage"
+      ],
+      "facts": [
+        "A single Chest holds 27 slots; two adjacent Chests merge into a Double Chest with 54 slots. Trapped Chests emit a Redstone signal when opened.",
+        "Ender Chests have 27 personal slots that are shared across all Ender Chests for that player; contents are not lost on death. Breaking one requires Silk Touch.",
+        "Shulker Boxes hold 27 items and retain their inventory when broken; they can be placed inside other storage (except other Shulker Boxes).",
+        "Hoppers transfer 1 item every 8 game ticks (2.5 items/second); they pull from containers above and push into containers below or beside them.",
+        "Powered Rails accelerate Minecarts when powered by Redstone; a repeating powered rail circuit can maintain speed. Detector Rails emit a Redstone signal when a cart passes.",
+        "Boats are the fastest overland water travel and can fit 2 entities; they do not break at high speed unless hitting a solid block head-on.",
+        "Horses require repeated mounting (without a Saddle) until hearts appear to tame; a Saddle and optionally Diamond/Netherite Horse Armor is then equipped.",
+        "Donkeys and Mules can carry a Chest (15 extra slots) when right-clicked with one; Mules are bred from a Horse and Donkey.",
+        "Camels can seat 2 players simultaneously and their tall height prevents most melee mob hits; they can dash forward at the cost of a cooldown.",
+        "Nautilus (added in 1.21.11) is a tameable aquatic mount found in ocean biomes; tamed with Pufferfish, equipped with a Saddle, and grants Breath of the Nautilus effect (pauses oxygen depletion) while riding.",
+        "Striders walk on lava in the Nether and can be saddled and controlled with a Warped Fungus on a Stick.",
+        "Llamas can be equipped with a Carpet (cosmetic) and Chest (3-15 slots depending on strength); leading one with a Lead causes others nearby to form a caravan.",
+        "An Item Sorter automates storage using Hoppers, Comparators, and single filtered items in Hoppers to direct items into specific chests by type.",
+        "Elytra (found in End City Ships) enables gliding flight; right-clicking a Firework Rocket while gliding provides a speed boost."
+      ]
+    },
+    {
+      "id": "world_generation_and_biomes",
+      "name": "World Generation and Biomes",
+      "tags": [
+        "biome", "world generation", "overworld", "biomes", "plains", "forest",
+        "desert", "jungle", "mountains", "taiga", "swamp", "badlands",
+        "ocean", "savanna", "cherry grove", "mangrove swamp", "deep dark",
+        "lush cave", "meadow", "stony peaks", "grove"
+      ],
+      "facts": [
+        "The Overworld is divided into biomes that each have distinct terrain, climate, mob spawns, and resources.",
+        "Plains biomes are flat and common; they naturally spawn Villages and are easy for early building and farming.",
+        "Desert biomes contain Desert Temples, Villages, and Fossils; no water spawns naturally on the surface, and Husks replace Zombies.",
+        "Jungle biomes contain Jungle Temples, Bamboo, Cocoa Beans, Parrots, and Ocelots; they are dense and difficult to navigate.",
+        "Ocean biomes come in Warm (coral reefs, tropical fish), Lukewarm, Normal, Cold, and Frozen variants; Ocean Monuments spawn in all Deep Ocean types.",
+        "Mountain biomes include Jagged Peaks, Frozen Peaks, Stony Peaks, Snowy Slopes, Meadow, and Grove variants; Emerald Ore and Goats are exclusive to mountains.",
+        "Swamp biomes contain Slime spawns at night, Blue Orchids, and Witch Huts; Mangrove Swamps (a variant) feature Mangrove trees and Mud.",
+        "Badlands (Mesa) biomes contain exposed Gold Ore in their cliffs, Mineshafts at the surface, and rare Cactus + Red Sand terrain.",
+        "The Cherry Grove is a pink cherry blossom biome with Cherry Log trees that drop Cherry Petals; it has pastel pink fog and is peaceful.",
+        "Taiga biomes have Spruce trees, Foxes, and Wolves; Snowy Taiga adds cold temperatures and Rabbits.",
+        "The Savanna biome is flat with Acacia Trees; Villages and Llamas spawn here.",
+        "Lush Caves are underground biomes found below Azalea trees on the surface; they contain glow berries, Spore Blossoms, Moss, and Axolotls.",
+        "Dripstone Caves are rocky underground biomes filled with Pointed Dripstone stalactites and stalagmites.",
+        "The Deep Dark biome is found deep underground (below Y=-51) and always contains Sculk; Ancient Cities sometimes generate in very large Deep Dark areas.",
+        "Villages generate in Plains, Desert, Savanna, Taiga, and Snowy Plains biomes; each has a distinct architectural style.",
+        "Ruined Portals generate in both the Overworld and Nether as partially destroyed Nether Portal frames with Magma Blocks and Gilded Blackstone nearby."
+      ]
+    },
+    {
+      "id": "structures_and_loot",
+      "name": "Structures and Loot",
+      "tags": [
+        "dungeon", "stronghold", "mineshaft", "village", "mansion", "temple",
+        "ocean monument", "shipwreck", "buried treasure", "pillager outpost",
+        "nether fortress", "bastion", "end city", "trial chambers", "ancient city",
+        "ruined portal", "igloo", "witch hut", "swamp hut"
+      ],
+      "facts": [
+        "Dungeons are small rooms with a Monster Spawner (Zombie, Skeleton, or Spider) and 1-2 Chests containing Iron Ingots, Buckets, Saddles, Enchanted Books, Music Discs, and more.",
+        "Strongholds are massive underground fortresses containing the End Portal; located by following Eyes of Ender. Chests contain Ender Pearls, Iron items, and Enchanted Books.",
+        "Ocean Monuments are giant Prismarine structures found in Deep Ocean biomes; protected by Guardians and Elder Guardians (who inflict Mining Fatigue III). Contain Gold Blocks inside.",
+        "Woodland Mansions are rare large structures in Dark Oak forests containing Vindicators, Evokers (who drop Totems of Undying), and Vex; loot includes Enchanted Books and rare items.",
+        "Desert Temples have a central chamber with 4 Chests and a pressure plate TNT trap; loot includes Diamonds, Emeralds, Enchanted Books, and Gold Ingots.",
+        "Jungle Temples contain 2 Chests accessed by solving a lever puzzle or a tripwire trap; loot is similar to Desert Temples.",
+        "Shipwrecks generate in oceans and beaches; Supply chests contain food, Map chests contain Buried Treasure Maps, and Treasure chests contain Emeralds and Diamonds.",
+        "Buried Treasure is found by following Treasure Maps (from Shipwreck/Ocean Ruins); it contains a Heart of the Sea, Diamonds, and high-value loot. It is always under an X on the map.",
+        "Pillager Outposts are watchtower structures containing Pillager spawners; they often have a cage with a Golem, a Witch, or other mobs below.",
+        "Bastion Remnants come in 4 types (Bridge, Hoglin Stables, Housing Units, Treasure Room); the Treasure Room contains the highest-value Netherite and gold loot including Netherite Upgrade Templates.",
+        "End Cities generate on the outer End islands and always spawn in clusters; End Ships (which spawn adjacent to some End Cities) are the only source of Elytra.",
+        "Trial Chambers are underground copper/tuff structures containing Trial Spawners, Vaults, and Ominous Vaults with unique loot including Heavy Cores and Mace-related items.",
+        "Ancient Cities are massive Deep Dark structures containing chests with Swift Sneak (unique enchantment), Disc Fragments for the 'otherside' disc, Echo Shards for Lodestones, and Enchanted Books.",
+        "Igloos in Snowy Plains biomes sometimes have a basement with a Zombie Villager in a cage and a Splash Potion of Weakness + Golden Apple — hinting at how to cure Zombie Villagers.",
+        "Ocean Ruins (Warm = sandstone, Cold = stone) contain loot chests with archaeology Suspicious blocks nearby; breaking Suspicious Sand/Gravel with a Brush reveals buried items including Pottery Sherds."
+      ]
+    },
+    {
+      "id": "mounts_of_mayhem_1_21_11",
+      "name": "Mounts of Mayhem (1.21.11 Features)",
+      "tags": [
+        "1.21.11", "mounts of mayhem", "nautilus", "zombie nautilus",
+        "nautilus armor", "spear", "netherite horse armor", "camel husk",
+        "parched", "zombie horse", "zombie horsemen", "breath of the nautilus",
+        "lunge enchantment", "mounts", "new mobs"
+      ],
+      "facts": [
+        "Minecraft Java Edition 1.21.11, named 'Mounts of Mayhem', was released on December 9, 2025 and is the final version to use the classic 1.x.y version format.",
+        "The Nautilus is a new neutral aquatic mob that spawns in all ocean biomes; it can be tamed using Pufferfish, equipped with a Saddle, and ridden underwater.",
+        "Riding a tamed Nautilus grants the Breath of the Nautilus effect, which pauses the player's oxygen depletion (but does not replenish it).",
+        "The Zombie Nautilus is an undead underwater mob that always spawns with a Drowned rider wielding a Trident; it burns in sunlight unless equipped with Nautilus Armor.",
+        "Nautilus Armor comes in Copper, Iron, Gold, Diamond, and Netherite variants; it is worn by Nautilus mobs and found in Buried Treasure, Ocean Ruins, and Shipwreck chests.",
+        "The Camel Husk is an undead Camel variant that spawns in Deserts at light level 0 with a Husk (holding a Spear) in front and a Parched in the back; it doesn't burn in sunlight.",
+        "The Parched is a desert Skeleton variant that shoots Arrows of Weakness, doesn't burn in sunlight, and is immune to the Weakness effect; it spawns in Deserts replacing some regular Skeletons.",
+        "Zombie Horses can now be tamed in survival, healed using Red Mushrooms, equipped with a Saddle and Horse Armor, and ridden like a regular Horse; defeating their Zombie rider yields the mount.",
+        "Netherite Horse Armor is obtained by upgrading Diamond Horse Armor at a Smithing Table using a Netherite Upgrade Smithing Template and a Netherite Ingot.",
+        "The Spear is a new tiered melee weapon (Wood, Stone, Copper, Iron, Gold, Diamond, Netherite) crafted in a diagonal pattern similar to a Shovel but diagonal.",
+        "The Spear has two attacks: Jab (quick, low damage, hits multiple enemies, triggers Lunge enchantment) and Charge (hold to build up, damage scales with player/target velocity, can dismount riders).",
+        "The Spear has extended reach compared to all other melee weapons but requires a minimum distance from the target to deal damage.",
+        "The Lunge enchantment (Spear exclusive, levels I-III) propels the player horizontally during a Jab; higher levels increase distance but cost more hunger (I=0.5, II=1, III=1.5 hunger points).",
+        "Zombies, Husks, Zombified Piglins, and Piglins can spawn holding Spears; Piglins prefer Gold Spears.",
+        "Tamed Horses no longer path into Cacti or Sweet Berry bushes (quality-of-life improvement in 1.21.11)."
+      ]
+    },
+    {
+      "id": "dimensions_and_portals",
+      "name": "Dimensions and Portals",
+      "tags": [
+        "dimension", "overworld", "nether", "end", "portal", "nether portal",
+        "end portal", "respawn anchor", "lodestone", "anchor", "coordinates",
+        "y level", "void", "chorus fruit"
+      ],
+      "facts": [
+        "Minecraft has three main dimensions: the Overworld (base survival world), the Nether (hellscape), and the End (endgame dimension).",
+        "Nether Portals link the two dimensions at an 8:1 ratio — 1 block in the Nether = 8 blocks in the Overworld for horizontal travel.",
+        "End Portals are one-way from the Overworld to the End; to return, players must die or use the Exit Portal (opened after defeating the Ender Dragon).",
+        "The Respawn Anchor (crafted from 6 Crying Obsidian + 3 Glowstone) lets players set a respawn point in the Nether; it holds up to 4 charges (filled with Glowstone).",
+        "Using a normal Bed in the Nether or End causes it to explode violently; use a Respawn Anchor in the Nether and accept death in the End.",
+        "The Overworld's Y range is from Y=-64 (bedrock floor) to Y=320 (build limit); Y=0 is sea level, and Y=64 is the standard surface height.",
+        "Lodestones (crafted from 1 Netherite Ingot + 8 Chiseled Stone Bricks) can be linked to a Compass anywhere in any dimension, including the Nether and End.",
+        "The void in the End starts below Y=0; falling into it is instantly fatal and cannot be countered by a Totem of Undying.",
+        "Chorus Fruit (from the outer End islands) teleports the player to a random adjacent solid block surface and can clip through walls; it also cancels Elytra flight."
+      ]
+    },
+    {
+      "id": "game_mechanics_general",
+      "name": "Core Game Mechanics",
+      "tags": [
+        "hunger", "health", "regeneration", "death", "respawn", "xp",
+        "experience", "levels", "spawn point", "bed", "game modes",
+        "difficulty", "day night cycle", "weather", "lightning", "moon",
+        "ticks", "random ticks", "inventory"
+      ],
+      "facts": [
+        "The day-night cycle lasts 20 real-world minutes (24,000 game ticks); daytime is 10 minutes, sunset/sunrise are 90 seconds each, and nighttime is approximately 7 minutes.",
+        "Hostile mobs spawn in light levels of 0 only (since 1.18); torches, lanterns, and glowstone prevent mob spawns in enclosed areas.",
+        "The Hunger bar has 20 points (10 drumsticks); natural health regeneration requires 18+ hunger points and costs hunger. Below 6 hunger, the player cannot sprint.",
+        "Experience (XP) is gained from killing mobs, smelting, breeding, mining, fishing, and trading. XP is used for enchanting and Anvil repairs.",
+        "Death drops all items on the ground at the location of death; items despawn after 5 real minutes. Death Coordinates are shown in the respawn screen.",
+        "Sleeping in a Bed sets your respawn point to that Bed; if the Bed is blocked or destroyed, you respawn at the world spawn instead.",
+        "Game ticks run at 20 per second (50ms each); Redstone, mob AI, and crop growth all operate on the tick system. Random ticks trigger crop growth, fire spread, and ice melting.",
+        "The Moon phase (full moon to no moon, 8 phases over 8 in-game days) affects Slime spawning — more Slimes spawn during a Full Moon.",
+        "Lightning strikes can strike during thunderstorms and convert Pigs to Zombified Piglins, Creepers to Charged Creepers, Villagers to Witches, and Horses to Skeleton Horses.",
+        "Difficulty levels: Peaceful (no hostile mobs, no hunger drain), Easy (mobs deal less damage), Normal (standard), Hard (mobs deal more damage, Zombies break doors, starvation can kill).",
+        "In Hard difficulty, Zombies can break down wooden doors during sieges; Iron Doors (opened by Redstone only) are immune to this.",
+        "The inventory has 36 general slots (27 main + 9 hotbar), 4 armor slots, 1 off-hand slot, and a 2x2 personal crafting grid."
+      ]
+    },
+    {
+      "id": "ocean_and_aquatic",
+      "name": "Ocean and Aquatic Gameplay",
+      "tags": [
+        "ocean", "underwater", "trident", "drowned", "guardian", "elder guardian",
+        "sea lantern", "prismarine", "heart of the sea", "conduit",
+        "water breathing", "dolphin", "turtle", "axolotl", "coral",
+        "shipwreck", "ocean ruins", "ocean monument"
+      ],
+      "facts": [
+        "The Trident is only obtainable by killing Drowned mobs that spawn holding one; it cannot be crafted.",
+        "Trident enchantments: Loyalty (returns to player after throwing), Riptide (propels player forward in water/rain), Channeling (summons lightning during thunderstorms — only one of Riptide or Channeling, and only Loyalty or Riptide, can coexist).",
+        "Ocean Monuments are guarded by Guardians (laser beam attack) and 3 Elder Guardians (Mining Fatigue III curse); the interior contains 8 Gold Blocks in the central chamber.",
+        "A Conduit is crafted from 1 Heart of the Sea + 8 Nautilus Shells; when activated inside a 3-layer Prismarine frame structure, it grants Conduit Power (unlimited water breathing, night vision, and haste) to nearby players.",
+        "Dolphins grant a temporary speed boost to nearby players who sprint-swim close to them; they are attracted to items dropped in water.",
+        "Sea Turtles lay Eggs on beaches that hatch into Baby Sea Turtles; killing a baby drops a Scute (5 Scutes = 1 Turtle Shell helmet, which grants Water Breathing).",
+        "Axolotls spawn in dark underground water near clay blocks (Lush Caves); they can be scooped into a Bucket and deployed to fight Guardians and Drowned.",
+        "Coral blocks and Coral Fans only survive underwater (they dry out and die without water); Silk Touch mines them intact.",
+        "The Heart of the Sea is found only in Buried Treasure chests (one per chest); it is required to craft a Conduit.",
+        "Kelp grows underwater and can be smelted into Dried Kelp (portable food) or used to craft Dried Kelp Blocks (efficient fuel = 200 seconds burn time)."
+      ]
+    }
+  ],
+  "world_states": [],
+  "entity_states": []
+}

@@ -1,0 +1,301 @@
+{
+  "knowledge_entries": [
+    {
+      "id": "netherite_progression",
+      "name": "Netherite Upgrade Progression",
+      "tags": ["netherite", "upgrade", "smithing", "diamond", "ancient debris", "ingot", "armor", "tool", "weapon"],
+      "facts": [
+        "Netherite is obtained by smelting Ancient Debris in a furnace to get Netherite Scrap.",
+        "Combining 4 Netherite Scraps and 4 Gold Ingots in a crafting table produces 1 Netherite Ingot.",
+        "Ancient Debris spawns most frequently at Y-level 15 in the Nether.",
+        "Ancient Debris is blast-resistant and cannot be burned by lava or fire.",
+        "To upgrade Diamond gear to Netherite, use a Smithing Table with a Netherite Upgrade Smithing Template, the Diamond item, and 1 Netherite Ingot.",
+        "Netherite Upgrade Smithing Templates are found in Bastion Remnant chests.",
+        "Netherite gear is stronger, faster, more durable, and has higher enchantability than Diamond.",
+        "Netherite items float in lava and do not burn."
+      ]
+    },
+    {
+      "id": "enchanting_system",
+      "name": "Enchanting System",
+      "tags": ["enchanting", "enchantment", "enchant", "xp", "experience", "lapis", "enchantment table", "bookshelf", "anvil", "grindstone"],
+      "facts": [
+        "An Enchantment Table requires 15 Bookshelves surrounding it (with one block gap) to unlock maximum level 30 enchantments.",
+        "Enchanting costs Lapis Lazuli and Experience Levels.",
+        "Books can be enchanted and combined on an Anvil to apply specific enchantments to gear.",
+        "A Grindstone removes all non-curse enchantments from an item and refunds some XP.",
+        "Curse of Binding and Curse of Vanishing cannot be removed by a Grindstone.",
+        "Mending enchantment repairs items using XP orbs collected while the item is equipped.",
+        "Silk Touch allows mining blocks in their original form (e.g. glass, ores as blocks).",
+        "Fortune increases drop yield from mined blocks such as diamonds, coal, and flint."
+      ]
+    },
+    {
+      "id": "nether_guide",
+      "name": "The Nether",
+      "tags": ["nether", "portal", "obsidian", "nether fortress", "bastion", "blaze", "wither skeleton", "piglin", "hoglin", "strider", "nether biomes"],
+      "facts": [
+        "A Nether Portal is built from a minimum 4x5 frame of Obsidian and lit with Flint and Steel.",
+        "One block of travel in the Nether equals eight blocks in the Overworld.",
+        "Nether Fortresses contain Blaze Spawners and Nether Wart farms.",
+        "Blazes drop Blaze Rods, required to craft Eyes of Ender and brewing stands.",
+        "Wither Skeletons spawn in Nether Fortresses and rarely drop Wither Skeleton Skulls.",
+        "Bastions contain Piglin mobs and large amounts of gold-related loot including Netherite Upgrade Templates.",
+        "Piglins are neutral unless you are not wearing gold armor; they can be bartered with by throwing gold ingots.",
+        "Striders walk on lava and can be ridden using a Saddle and guided with a Warped Fungus on a Stick.",
+        "Fire Resistance potions are highly recommended before entering the Nether."
+      ]
+    },
+    {
+      "id": "end_guide",
+      "name": "The End",
+      "tags": ["end", "ender dragon", "end portal", "stronghold", "eyes of ender", "end city", "elytra", "shulker", "chorus fruit", "dragon egg"],
+      "facts": [
+        "The End is accessed through an End Portal found inside a Stronghold, activated using Eyes of Ender.",
+        "Eyes of Ender are crafted from Blaze Powder and Ender Pearls.",
+        "Throwing Eyes of Ender guides you toward the nearest Stronghold.",
+        "The Ender Dragon must be defeated to fully unlock The End dimension.",
+        "End Crystals on obsidian pillars heal the Ender Dragon and must be destroyed first.",
+        "Defeating the Ender Dragon spawns an End Gateway portal leading to the outer End islands.",
+        "End Cities spawn on the outer islands and contain Elytra and Shulker Boxes.",
+        "Elytra allows gliding flight and can be powered with Firework Rockets for extended flight.",
+        "The Dragon Egg is a purely decorative trophy block that drops after the first Ender Dragon kill.",
+        "Shulkers teleport and inflict the Levitation status effect when they hit you."
+      ]
+    },
+    {
+      "id": "survival_early_game",
+      "name": "Early Game Survival Progression",
+      "tags": ["survival", "start", "beginner", "early game", "wood", "stone", "iron", "shelter", "food", "crafting table", "first night"],
+      "facts": [
+        "The first priority on a new world is punching trees to collect Wood, then crafting a Crafting Table.",
+        "A Crafting Table is made from 4 Wood Planks and allows 3x3 crafting recipes.",
+        "Stone tools require a Furnace and Cobblestone, and are significantly faster than Wood tools.",
+        "Iron Ore must be smelted in a Furnace to produce Iron Ingots for Iron tools and armor.",
+        "Building a shelter before the first night prevents hostile mob spawns from attacking you.",
+        "Eating food restores Hunger; a full Hunger bar is required for natural health regeneration.",
+        "Sheep drop Wool which combined with Wood Planks crafts a Bed, allowing you to skip the night.",
+        "Coal is found near the surface and is essential for torches and smelting fuel.",
+        "Diamond Ore is found between Y-levels -58 and 16, most commonly at Y=-58.",
+        "A full set of Iron Armor significantly reduces incoming damage and should be a top early priority."
+      ]
+    },
+    {
+      "id": "brewing_system",
+      "name": "Brewing and Potions",
+      "tags": ["brewing", "potion", "blaze powder", "nether wart", "brewing stand", "awkward potion", "fire resistance", "strength", "healing", "invisibility", "splash potion"],
+      "facts": [
+        "A Brewing Stand is crafted from 1 Blaze Rod and 3 Cobblestone.",
+        "Blaze Powder fuels the Brewing Stand.",
+        "Most potions require an Awkward Potion base, brewed from Nether Wart in a Water Bottle.",
+        "Fire Resistance Potion is brewed by adding Magma Cream to an Awkward Potion.",
+        "Healing Potion is brewed by adding Glistering Melon Slice to an Awkward Potion.",
+        "Strength Potion is brewed by adding Blaze Powder to an Awkward Potion.",
+        "Invisibility Potion is brewed by adding Fermented Spider Eye to a Night Vision Potion.",
+        "Gunpowder converts any potion into a Splash Potion that can be thrown.",
+        "Dragon's Breath converts a Splash Potion into a Lingering Potion that leaves an area-of-effect cloud.",
+        "Potions can be extended with Redstone or made more potent with Glowstone Dust (but not both simultaneously)."
+      ]
+    },
+    {
+      "id": "redstone_basics",
+      "name": "Redstone Basics",
+      "tags": ["redstone", "circuit", "lever", "button", "repeater", "comparator", "piston", "dispenser", "dropper", "hopper", "observer", "detector rail"],
+      "facts": [
+        "Redstone Dust transmits power signals up to 15 blocks before requiring a Repeater to extend.",
+        "A Redstone Repeater boosts the signal back to full strength and can introduce a delay of 1-4 ticks.",
+        "A Redstone Comparator outputs signal strength based on the contents of a container or compares two signals.",
+        "Pistons push up to 12 blocks when activated; Sticky Pistons also pull the block back.",
+        "Observers detect block state changes and emit a brief pulse.",
+        "Hoppers transfer items between containers and can pull items from above or push items into containers below.",
+        "Dispensers fire items or activate usable items (like buckets or flint and steel) when triggered.",
+        "Droppers drop items as entities into the world when triggered.",
+        "A Redstone Torch is always ON and can power adjacent blocks, but is turned OFF by an active input."
+      ]
+    },
+    {
+      "id": "mob_guide",
+      "name": "Common Mobs",
+      "tags": ["mob", "zombie", "skeleton", "creeper", "enderman", "spider", "witch", "slime", "phantom", "pillager", "evoker", "vindicator", "warden", "iron golem"],
+      "facts": [
+        "Creepers explode when within 3 blocks; they are silent until hissing begins — back away immediately.",
+        "Skeletons fire arrows and prefer to stay at range; a shield blocks their arrows.",
+        "Endermen are neutral until looked at directly in the eyes; a Pumpkin on the head prevents aggro.",
+        "Phantoms spawn when a player has not slept for 3 in-game nights and attack from above.",
+        "Witches throw harmful splash potions and drink beneficial potions to heal themselves.",
+        "Slimes spawn in Slime Chunks below Y=40 and in swamp biomes at night.",
+        "Iron Golems spawn naturally in villages and attack all hostile mobs; they can also be player-crafted.",
+        "The Warden is summoned by Sculk Shriekers in the Deep Dark and has very high health and damage.",
+        "Pillagers patrol near villages and raid in waves if a Bad Omen effect enters a village.",
+        "Evokers summon Vexes and cast Fang spells; they drop a Totem of Undying on death."
+      ]
+    },
+    {
+      "id": "essential_crafting_recipes",
+      "name": "Essential Crafting Recipes",
+      "tags": ["crafting", "recipes", "tools", "armor", "shield", "bucket", "chest", "furnace", "utility"],
+      "facts": [
+        "A Shield is crafted using 1 Iron Ingot and 6 Wood Planks arranged in a 'Y' shape pattern.",
+        "A Bucket requires 3 Iron Ingots placed in a 'V' shape layout; it can carry water, lava, milk, and powder snow.",
+        "A Furnace is crafted by forming a hollow 3x3 ring of 8 Cobblestone, Cobbled Deepslate, or Blackstone.",
+        "A Chest is made from 8 Wood Planks arranged in a hollow 3x3 square; placing two side-by-side forms a Double Chest.",
+        "Pickaxes require 3 crafting components (Planks, Cobblestone, Iron, Gold, Diamond) across the top row and 2 Sticks down the center.",
+        "Swords require 2 crafting components stacked vertically over 1 Stick at the bottom center.",
+        "Axes require 3 components arranged in a corner (top-left or top-right) with 2 Sticks descending from the center.",
+        "Shovels require 1 crafting component at the top-center position over 2 vertical Sticks.",
+        "Hoes require 2 components occupying the top-center and either top-left or top-right grids, supported by 2 vertical Sticks.",
+        "A Torches pair is crafted by placing 1 Coal or Charcoal directly above 1 Stick, yielding 4 Torches."
+      ]
+    },
+    {
+      "id": "villager_trading_professions",
+      "name": "Villager Trading & Professions",
+      "tags": ["villager", "trading", "profession", "emerald", "librarian", "fletcher", "armorer", "workstation", "discount"],
+      "facts": [
+        "Unemployed villagers claim professions by assigning themselves to an unclaimed workstation block in a village.",
+        "The Librarian uses a Lectern and can trade rare enchanted books, including Mending and Unbreaking.",
+        "The Fletcher uses a Fletching Table and provides an excellent early-game emerald source by trading sticks for emeralds.",
+        "The Armorer uses a Blast Furnace, trading chainmail armor early on and full sets of enchanted Diamond Armor at Master level.",
+        "The Toolsmith uses a Smithing Table, while the Weaponsmith uses a Grindstone; both trade enchanted Diamond tools and weapons.",
+        "Trading with a villager awards them experience, leveling them up from Novice to Apprentice, Journeyman, Expert, and Master.",
+        "Curing a Zombie Villager by using a Splash Potion of Weakness and a Golden Apple grants permanent, significant trade discounts.",
+        "Villagers must have access to beds and sufficient food (3 Bread, 12 Carrots, 12 Potatoes, or 12 Beetroots) to breed.",
+        "The Cleric uses a Brewing Stand and trades useful items like Redstone Dust, Glowstone Dust, and Ender Pearls."
+      ]
+    },
+    {
+      "id": "trial_chambers_and_mace",
+      "name": "Trial Chambers and The Mace",
+      "tags": ["trial chambers", "mace", "heavy core", "breeze", "breeze rod", "vault", "trial spawner", "ominous trial"],
+      "facts": [
+        "Trial Chambers are expansive underground structures constructed primarily from Copper and Tuff blocks.",
+        "Trial Spawners adjust mob count and difficulty depending on how many players are nearby, rewarding Trial Keys upon completion.",
+        "Vaults are unique reward containers within Trial Chambers that can be unlocked by every individual player exactly once using a Trial Key.",
+        "Drinking an Ominous Bottle activates the Bad Omen effect, transforming nearby Trial Spawners into Ominous Trial Spawners.",
+        "Ominous Trial Spawners summon mobs wearing armor, firing status-effect projectiles, and dropping Ominous Trial Keys.",
+        "The Breeze is a wind-based hostile mob exclusive to Trial Chambers that drops Breeze Rods when defeated.",
+        "The Mace is a high-damage weapon crafted by combining a Heavy Core on top of a single Breeze Rod in a crafting grid.",
+        "The Mace deals scaling smash damage based on how far the player falls before hitting an enemy.",
+        "Successfully landing a smash attack with a Mace completely negates all accumulated fall damage for the attacker.",
+        "Heavy Cores are exceptionally rare rewards obtained strictly by unlocking Ominous Vaults."
+      ]
+    },
+    {
+      "id": "beacon_mechanics",
+      "name": "Beacon System & Pyramids",
+      "tags": ["beacon", "pyramid", "buff", "haste", "wither star", "nether star", "mineral blocks", "insta-mine"],
+      "facts": [
+        "A Beacon is crafted using 1 Nether Star (dropped by defeating the Wither), 3 Obsidian, and 5 Glass blocks.",
+        "To operate, a Beacon must sit on top of a solid pyramid constructed from Iron, Gold, Diamond, Emerald, or Netherite blocks.",
+        "A full-power pyramid consists of 4 tiers (3x3, 5x5, 7x7, and 9x9 bases) requiring a total of 164 mineral blocks.",
+        "Full-power Beacons let players choose a primary benefit (Speed, Haste, Resistance, Jump Boost, Strength) and a secondary benefit (Regeneration).",
+        "Selecting Haste II from a full pyramid enables 'insta-mining' of standard stone blocks when paired with an Efficiency V pickaxe.",
+        "The vertical beam emitted by a Beacon requires an unobstructed sky view, but can pass through stained glass to alter its color."
+      ]
+    },
+    {
+      "id": "agriculture_farming_mechanics",
+      "name": "Agriculture and Farming Mechanics",
+      "tags": ["farming", "crops", "food", "saturation", "golden carrot", "breeding", "bonemeal", "composter"],
+      "facts": [
+        "Crops like Wheat, Carrots, Potatoes, and Beetroots require tilled Farmland within 4 horizontal blocks of a water source to grow.",
+        "Golden Carrots and Cooked Porkchops/Steak offer the highest saturation values, keeping the player's hunger bar filled the longest.",
+        "Bonemeal can be applied directly to crops, saplings, and mushrooms to instantly accelerate their growth phases.",
+        "Passive livestock animals are bred using distinct foods: Cows and Sheep use Wheat, Pigs use Carrots/Potatoes, and Chickens use Seeds.",
+        "Melon and Pumpkin seeds grow into a central stalk that requires an adjacent empty dirt, grass, or farmland block to yield fruit.",
+        "A Composter converts excess organic items and plant materials into Bonemeal when filled through 7 distinct layers."
+      ]
+    },
+    {
+      "id": "ender_dragon_boss_mechanics",
+      "name": "Ender Dragon Boss & Death Mechanics",
+      "tags": ["ender dragon", "boss", "death", "drops", "xp", "dragon egg", "elytra", "respawn", "end crystal"],
+      "facts": [
+        "Defeating the Ender Dragon triggers a violent death animation where it floats up, radiates beams of purple light, and explodes into a massive amount of experience points.",
+        "The first defeat of the Ender Dragon drops 12,000 Experience points (enough to get a player from level 0 to 78); subsequent defeats drop 500 Experience points.",
+        "The Ender Dragon does NOT drop the Elytra or an End Gateway Fragment, that doesn't exist. Elytra are only found inside item frames aboard End Ships in distant End Cities.",
+        "Upon its first defeat, a single Dragon Egg spawns on top of the bedrock Exit Portal as a unique trophy block. It does not drop on subsequent defeats.",
+        "The Ender Dragon does NOT respawn automatically or on a time-based schedule; once defeated, it remains dead indefinitely.",
+        "To manually respawn the Ender Dragon, a player must craft and place 4 End Crystals on the flat edges of the bedrock Exit Portal (one on each of the four sides).",
+        "Initiating the dragon respawn ritual recreates the obsidian pillars and top-tier End Crystals, preparing the arena for a new fight."
+      ]
+    }
+  ],
+  "world_states": [
+    {
+      "type": "world_state",
+      "id": "guild_settlement",
+      "category": "settlement_state",
+      "current_version": 1,
+      "versions": [
+        {
+          "version": 1,
+          "timestamp": "2026-06-06",
+          "is_current": true,
+          "state": [
+            "A small guild stand exists in a modest town.",
+            "The Adventurers' Guild is newly formed and minimally organized.",
+            "No records of anything exist yet."
+          ]
+        }
+      ]
+    }
+  ],
+  "entity_states": [
+    {
+      "type": "entity_state",
+      "entity_type": "player",
+      "id": "player_renyuzaki",
+      "name": "renyuzaki",
+      "aliases": ["ahren"],
+      "current_version": 1,
+      "versions": [
+        {
+          "version": 1,
+          "timestamp": "2026-06-06",
+          "is_current": true,
+          "data": {
+            "rank": "Founder/Owner of The Adventurers' Guild and Global Halcyon Ministry (GHM)",
+            "role": "Guild Owner of The Adventurers' Guild and Founder of GHM",
+            "status": "Active",
+            "notes": [
+              "Founded the Global Halcyon Ministry, an organization/faction. (GHM).",
+              "Founded the Adventurers' Guild."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "entity_state",
+      "entity_type": "npc",
+      "id": "npc_elyra_thornwood",
+      "name": "Elyra Thornwood",
+      "aliases": ["elyra", "guild scribe", "scribe"],
+      "current_version": 1,
+      "versions": [
+        {
+          "version": 1,
+          "timestamp": "2026-06-06",
+          "is_current": true,
+          "data": {
+            "rank": "Guild Scribe",
+            "role": "Guild Scribe of the Adventurers' Guild and member of the Global Halcyon Ministry (GHM)",
+            "status": "Active",
+            "age": "21",
+            "notes": [
+              "Second member of both the Adventurers' Guild and the Global Halcyon Ministry (GHM).",
+              "Chosen as Guild Scribe by renyuzaki due to exceptional literacy skills and meticulous record-keeping abilities.",
+              "Was taken in by a traveling scholar who recognized her talent for reading and writing.",
+              "Maintains all official guild records, member information, and historical archives.",
+              "Speaks in a calm, reserved, and slightly dry tone characteristic of a dedicated archivist.",
+              "Does not voluntarily share personal history or emotional details unless directly relevant to archival matters.",
+              "Views her role as a sacred duty to preserve accurate records for future generations.",
+              "Respects renyuzaki as the founder but maintains professional boundaries appropriate for a scribe."
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
