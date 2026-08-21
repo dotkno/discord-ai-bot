@@ -4,32 +4,7 @@ A two-bot Discord architecture: an Admin bot (moderation, automod, welcome)and a
 Status: Prototype / actively developed. Core dual-bot architecture andRAG retrieval work; [note what's incomplete].
 
 Architecture
-┌──────────────────────┐ ┌──────────────────────┐
-│ Admin Bot │ │ AI Bot (Elyra) │
-│ bot_admin.py │ │ bot_ai.py │
-│ • automod │ │ • @mention → LLM │
-│ • /warn /mute /ban │ │ • RAG retrieval │
-│ • welcome messages │ │ • /bot-config │
-│ • Does NOT chat │ │ • Only bot that chats│
-└──────────────────────┘ └──────────┬───────────┘
-│
-▼
-┌──────────────────────┐
-│ Knowledge Layer │
-│ utils/knowledge.py │
-│ • personal_knowledge │
-│ • world_knowledge │
-│ • general_knowledge │
-│ • archived_knowledge │
-│ (loaded by context) │
-└──────────┬───────────┘
-│
-▼
-┌──────────────────────┐
-│ LLM Provider │
-│ Google Gemini OR │
-│ OpenAI (swappable) │
-└──────────────────────┘
+┌──────────────────────┐         ┌──────────────────────┐│  Admin Bot           │         │  AI Bot (Elyra)      ││  bot_admin.py        │         │  bot_ai.py           ││  • automod           │         │  • @mention → LLM    ││  • /warn /mute /ban  │         │  • RAG retrieval     ││  • welcome messages  │         │  • /bot-config       ││  • Does NOT chat     │         │  • Only bot that chats│└──────────────────────┘         └──────────┬───────────┘                                            │                                            ▼                                 ┌──────────────────────┐                                 │  Knowledge Layer     │                                 │  utils/knowledge.py  │                                 │  • personal          │                                 │  • world             │                                 │  • general           │                                 │  • archived          │                                 │  (loaded by context) │                                 └──────────┬───────────┘                                            │                                            ▼                                 ┌──────────────────────┐                                 │  LLM Provider        │                                 │  Google Gemini OR    │                                 │  OpenAI (swappable)  │                                 └──────────────────────┘
 
 
 ### Minecraft NPC integration
