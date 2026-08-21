@@ -1,0 +1,43 @@
+# ===== Secrets (CRITICAL) =====
+.env
+.env.*
+*.env
+**/credentials.*
+**/secrets.*
+token.txt
+
+# ===== Python bytecode =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# ===== Virtual envs =====
+venv/
+.venv/
+env/
+ENV/
+
+# ===== Runtime data (regenerated on first run) =====
+data/logs/
+data/backups/
+*.log
+logs/
+
+# ===== Local config with real IDs (keep .example versions) =====
+data/server_config.json
+# data/ai_bot_config.json   ← keep this one, it's safe (status/bio/settings)
+
+# ===== IDE / OS =====
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ===== Caches =====
+.cache/
+*.cache
+__pycache__/
