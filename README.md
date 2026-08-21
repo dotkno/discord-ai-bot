@@ -3,33 +3,18 @@ A two-bot Discord architecture: an Admin bot (moderation, automod, welcome)and a
 
 Status: Prototype / actively developed. Core dual-bot architecture andRAG retrieval work; [note what's incomplete].
 
-Architecture
-┌──────────────────────┐ ┌──────────────────────┐
-│ Admin Bot │ │ AI Bot (Elyra) │
-│ bot_admin.py │ │ bot_ai.py │
-│ • automod │ │ • @mention → LLM │
-│ • /warn /mute /ban │ │ • RAG retrieval │
-│ • welcome messages │ │ • /bot-config │
-│ • Does NOT chat │ │ • Only bot that chats│
-└──────────────────────┘ └──────────┬───────────┘
-│
-▼
-┌──────────────────────┐
-│ Knowledge Layer │
-│ utils/knowledge.py │
-│ • personal_knowledge │
-│ • world_knowledge │
-│ • general_knowledge │
-│ • archived_knowledge │
-│ (loaded by context) │
-└──────────┬───────────┘
-│
-▼
-┌──────────────────────┐
-│ LLM Provider │
-│ Google Gemini OR │
-│ OpenAI (swappable) │
-└──────────────────────┘
+flowchart TD
+    subgraph Bots
+        admin["Admin Bot (bot_admin.py)<br>• automod<br>• /warn /mute /ban<br>• welcome messages<br>• Does NOT chat"]
+        ai["AI Bot - Elyra (bot_ai.py)<br>• @mention -> LLM<br>• RAG retrieval<br>• /bot-config<br>• Only bot that chats"]
+    end
+
+    knowledge["Knowledge Layer (utils/knowledge.py)<br>• personal_knowledge<br>• world_knowledge<br>• general_knowledge<br>• archived_knowledge<br>(loaded by context)"]
+
+    llm["LLM Provider<br>Google Gemini OR<br>OpenAI (swappable)"]
+
+    ai --> knowledge
+    knowledge --> llm
 
 ### Minecraft NPC integration
 
